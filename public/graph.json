@@ -1,4578 +1,1598 @@
 {
     "nodes": [
         {
-            "name": "acceptilation",
-            "type": "dictionary"
+            "name": "quizzer",
+            "type": 0
         },
         {
-            "name": "cardiorespiratory",
-            "type": "dictionary"
+            "name": "internation",
+            "type": 0
         },
         {
-            "name": "spoof",
-            "type": "dictionary"
+            "name": "pomander",
+            "type": 0
         },
         {
-            "name": "christening",
-            "type": "dictionary"
+            "name": "afterburning",
+            "type": 0
         },
         {
-            "name": "misstate",
-            "type": "dictionary"
+            "name": "flowstone",
+            "type": 0
         },
         {
-            "name": "landrace",
-            "type": "dictionary"
+            "name": "unconscienced",
+            "type": 0
         },
         {
-            "name": "exothermicity",
-            "type": "dictionary"
+            "name": "faggot",
+            "type": 0
         },
         {
-            "name": "quadrumane",
-            "type": "dictionary"
+            "name": "subtectal",
+            "type": 0
         },
         {
-            "name": "cryptostoma",
-            "type": "dictionary"
+            "name": "spritzer",
+            "type": 0
         },
         {
-            "name": "adjunctly",
-            "type": "dictionary"
+            "name": "expectorative",
+            "type": 0
         },
         {
-            "name": "celloist",
-            "type": "dictionary"
+            "name": "euchromatic",
+            "type": 0
         },
         {
-            "name": "phenate",
-            "type": "dictionary"
+            "name": "stinger",
+            "type": 0
         },
         {
-            "name": "misky",
-            "type": "dictionary"
+            "name": "unresembling",
+            "type": 0
         },
         {
-            "name": "pneumopericardium",
-            "type": "dictionary"
+            "name": "untying",
+            "type": 0
         },
         {
-            "name": "punatoo",
-            "type": "dictionary"
+            "name": "dieback",
+            "type": 0
         },
         {
-            "name": "artiller",
-            "type": "dictionary"
+            "name": "algol",
+            "type": 0
         },
         {
-            "name": "extraditable",
-            "type": "dictionary"
+            "name": "gammy",
+            "type": 0
         },
         {
-            "name": "goosegog",
-            "type": "dictionary"
+            "name": "quadratically",
+            "type": 0
         },
         {
-            "name": "waveguide",
-            "type": "dictionary"
+            "name": "muzzler",
+            "type": 0
         },
         {
-            "name": "microseptum",
-            "type": "dictionary"
+            "name": "percentaged",
+            "type": 0
         },
         {
-            "name": "cauterize",
-            "type": "dictionary"
+            "name": "diseconomy",
+            "type": 0
         },
         {
-            "name": "girondist",
-            "type": "dictionary"
+            "name": "dene",
+            "type": 0
         },
         {
-            "name": "gutless",
-            "type": "dictionary"
+            "name": "nitromethane",
+            "type": 0
         },
         {
-            "name": "aviate",
-            "type": "dictionary"
+            "name": "progressionary",
+            "type": 0
         },
         {
-            "name": "bibliomancy",
-            "type": "dictionary"
+            "name": "objet",
+            "type": 0
         },
         {
-            "name": "pathogenically",
-            "type": "dictionary"
+            "name": "balti",
+            "type": 0
         },
         {
-            "name": "unpierceable",
-            "type": "dictionary"
+            "name": "cully",
+            "type": 0
         },
         {
-            "name": "lactate",
-            "type": "dictionary"
+            "name": "praisably",
+            "type": 0
         },
         {
-            "name": "truthlike",
-            "type": "dictionary"
+            "name": "prohibitively",
+            "type": 0
         },
         {
-            "name": "ayre",
-            "type": "dictionary"
+            "name": "environmentalism",
+            "type": 0
         },
         {
-            "name": "remeant",
-            "type": "dictionary"
+            "name": "monocoque",
+            "type": 0
         },
         {
-            "name": "boydom",
-            "type": "dictionary"
+            "name": "paliurus",
+            "type": 0
         },
         {
-            "name": "heist",
-            "type": "dictionary"
+            "name": "rockwork",
+            "type": 0
         },
         {
-            "name": "entrecote",
-            "type": "dictionary"
+            "name": "postuterine",
+            "type": 0
         },
         {
-            "name": "teleosteous",
-            "type": "dictionary"
+            "name": "karo",
+            "type": 0
         },
         {
-            "name": "rimu",
-            "type": "dictionary"
+            "name": "shillelagh",
+            "type": 0
         },
         {
-            "name": "manorialize",
-            "type": "dictionary"
+            "name": "juke",
+            "type": 0
         },
         {
-            "name": "patagon",
-            "type": "dictionary"
+            "name": "adelantado",
+            "type": 0
         },
         {
-            "name": "mononomial",
-            "type": "dictionary"
+            "name": "berried",
+            "type": 0
         },
         {
-            "name": "prelinguistic",
-            "type": "dictionary"
+            "name": "ottrelite",
+            "type": 0
         },
         {
-            "name": "thymocyte",
-            "type": "dictionary"
+            "name": "wali",
+            "type": 0
         },
         {
-            "name": "thermochemical",
-            "type": "dictionary"
+            "name": "pise",
+            "type": 0
         },
         {
-            "name": "predate",
-            "type": "dictionary"
+            "name": "junky",
+            "type": 0
         },
         {
-            "name": "clio",
-            "type": "dictionary"
+            "name": "sarum",
+            "type": 0
         },
         {
-            "name": "multilateral",
-            "type": "dictionary"
+            "name": "bookcraft",
+            "type": 0
         },
         {
-            "name": "overtaxation",
-            "type": "dictionary"
+            "name": "disputable",
+            "type": 0
         },
         {
-            "name": "ranular",
-            "type": "dictionary"
+            "name": "ungeared",
+            "type": 0
         },
         {
-            "name": "roader",
-            "type": "dictionary"
+            "name": "headwork",
+            "type": 0
         },
         {
-            "name": "porphyrogenite",
-            "type": "dictionary"
+            "name": "chloritoid",
+            "type": 0
         },
         {
-            "name": "multipartisan",
-            "type": "dictionary"
+            "name": "subvene",
+            "type": 0
         },
         {
-            "name": "mastersinger",
-            "type": "dictionary"
+            "name": "nana",
+            "type": 0
         },
         {
-            "name": "asseverate",
-            "type": "dictionary"
+            "name": "mystagogic",
+            "type": 0
         },
         {
-            "name": "psychophysic",
-            "type": "dictionary"
+            "name": "flashover",
+            "type": 0
         },
         {
-            "name": "adonian",
-            "type": "dictionary"
+            "name": "masculinism",
+            "type": 0
         },
         {
-            "name": "ratificationist",
-            "type": "dictionary"
+            "name": "vaporetto",
+            "type": 0
         },
         {
-            "name": "lv",
-            "type": "dictionary"
+            "name": "nucleotidase",
+            "type": 0
         },
         {
-            "name": "preprogram",
-            "type": "dictionary"
+            "name": "waving",
+            "type": 0
         },
         {
-            "name": "lemming",
-            "type": "dictionary"
+            "name": "pell",
+            "type": 0
         },
         {
-            "name": "oothecal",
-            "type": "dictionary"
+            "name": "dailiness",
+            "type": 0
         },
         {
-            "name": "verona",
-            "type": "dictionary"
+            "name": "rebus",
+            "type": 0
         },
         {
-            "name": "electromobile",
-            "type": "dictionary"
+            "name": "stet",
+            "type": 0
         },
         {
-            "name": "historiography",
-            "type": "dictionary"
+            "name": "tradeswoman",
+            "type": 0
         },
         {
-            "name": "allotypic",
-            "type": "dictionary"
+            "name": "gr",
+            "type": 0
         },
         {
-            "name": "friesian",
-            "type": "dictionary"
+            "name": "ollie",
+            "type": 0
         },
         {
-            "name": "pantomimus",
-            "type": "dictionary"
+            "name": "statant",
+            "type": 0
         },
         {
-            "name": "rousseauist",
-            "type": "dictionary"
+            "name": "zymotic",
+            "type": 0
         },
         {
-            "name": "rejolt",
-            "type": "dictionary"
+            "name": "ionism",
+            "type": 0
         },
         {
-            "name": "rev",
-            "type": "dictionary"
+            "name": "metabisulphite",
+            "type": 0
         },
         {
-            "name": "inconel",
-            "type": "dictionary"
+            "name": "ghent",
+            "type": 0
         },
         {
-            "name": "muskogean",
-            "type": "dictionary"
+            "name": "mancando",
+            "type": 0
         },
         {
-            "name": "unaddressed",
-            "type": "dictionary"
+            "name": "adjectively",
+            "type": 0
         },
         {
-            "name": "valuta",
-            "type": "dictionary"
+            "name": "romanium",
+            "type": 0
         },
         {
-            "name": "roundtail",
-            "type": "dictionary"
+            "name": "amazon",
+            "type": 0
         },
         {
-            "name": "disubstituted",
-            "type": "dictionary"
+            "name": "squashed",
+            "type": 0
         },
         {
-            "name": "philomathic",
-            "type": "dictionary"
+            "name": "animato",
+            "type": 0
         },
         {
-            "name": "simpatico",
-            "type": "dictionary"
+            "name": "unrecognized",
+            "type": 0
         },
         {
-            "name": "wench",
-            "type": "dictionary"
+            "name": "montanite",
+            "type": 0
         },
         {
-            "name": "nigrine",
-            "type": "dictionary"
+            "name": "persecute",
+            "type": 0
         },
         {
-            "name": "sulcate",
-            "type": "dictionary"
+            "name": "souslik",
+            "type": 0
         },
         {
-            "name": "mycobacterium",
-            "type": "dictionary"
+            "name": "grockle",
+            "type": 0
         },
         {
-            "name": "ulmo",
-            "type": "dictionary"
-        },
-        {
-            "name": "surfacy",
-            "type": "dictionary"
-        },
-        {
-            "name": "unpolitely",
-            "type": "dictionary"
-        },
-        {
-            "name": "pitheciine",
-            "type": "dictionary"
-        },
-        {
-            "name": "impious",
-            "type": "dictionary"
-        },
-        {
-            "name": "unscaled",
-            "type": "dictionary"
-        },
-        {
-            "name": "logistic",
-            "type": "dictionary"
-        },
-        {
-            "name": "animadversive",
-            "type": "dictionary"
-        },
-        {
-            "name": "ladytide",
-            "type": "dictionary"
-        },
-        {
-            "name": "redistillation",
-            "type": "dictionary"
-        },
-        {
-            "name": "endpaper",
-            "type": "dictionary"
-        },
-        {
-            "name": "cotylosaur",
-            "type": "dictionary"
-        },
-        {
-            "name": "unpicturability",
-            "type": "dictionary"
-        },
-        {
-            "name": "rearrival",
-            "type": "dictionary"
-        },
-        {
-            "name": "shuswap",
-            "type": "dictionary"
-        },
-        {
-            "name": "cesser",
-            "type": "dictionary"
-        },
-        {
-            "name": "malkin",
-            "type": "dictionary"
-        },
-        {
-            "name": "collimate",
-            "type": "dictionary"
-        },
-        {
-            "name": "magyarism",
-            "type": "dictionary"
-        },
-        {
-            "name": "squawroot",
-            "type": "dictionary"
-        },
-        {
-            "name": "handsomely",
-            "type": "dictionary"
-        },
-        {
-            "name": "messiah",
-            "type": "dictionary"
-        },
-        {
-            "name": "chemigraphic",
-            "type": "dictionary"
-        },
-        {
-            "name": "hogmolly",
-            "type": "dictionary"
-        },
-        {
-            "name": "thereunto",
-            "type": "dictionary"
-        },
-        {
-            "name": "panto",
-            "type": "dictionary"
-        },
-        {
-            "name": "unpassioned",
-            "type": "dictionary"
-        },
-        {
-            "name": "neurocoele",
-            "type": "dictionary"
-        },
-        {
-            "name": "reappropriate",
-            "type": "dictionary"
-        },
-        {
-            "name": "fulminate",
-            "type": "dictionary"
-        },
-        {
-            "name": "retrobulbar",
-            "type": "dictionary"
-        },
-        {
-            "name": "onanism",
-            "type": "dictionary"
-        },
-        {
-            "name": "yuh",
-            "type": "dictionary"
-        },
-        {
-            "name": "metrist",
-            "type": "dictionary"
-        },
-        {
-            "name": "angolan",
-            "type": "dictionary"
-        },
-        {
-            "name": "restoratory",
-            "type": "dictionary"
-        },
-        {
-            "name": "untraversable",
-            "type": "dictionary"
-        },
-        {
-            "name": "advantaged",
-            "type": "dictionary"
-        },
-        {
-            "name": "internet",
-            "type": "dictionary"
-        },
-        {
-            "name": "uninformative",
-            "type": "dictionary"
-        },
-        {
-            "name": "conservatize",
-            "type": "dictionary"
-        },
-        {
-            "name": "allantoidean",
-            "type": "dictionary"
-        },
-        {
-            "name": "panhellenism",
-            "type": "dictionary"
-        },
-        {
-            "name": "hindu",
-            "type": "dictionary"
-        },
-        {
-            "name": "pygmalion",
-            "type": "dictionary"
-        },
-        {
-            "name": "cellulate",
-            "type": "dictionary"
-        },
-        {
-            "name": "unrelinquishable",
-            "type": "dictionary"
-        },
-        {
-            "name": "gps",
-            "type": "dictionary"
-        },
-        {
-            "name": "strigil",
-            "type": "dictionary"
-        },
-        {
-            "name": "ponderomotive",
-            "type": "dictionary"
-        },
-        {
-            "name": "poussette",
-            "type": "dictionary"
-        },
-        {
-            "name": "panspermatism",
-            "type": "dictionary"
-        },
-        {
-            "name": "counterargument",
-            "type": "dictionary"
-        },
-        {
-            "name": "maunderer",
-            "type": "dictionary"
-        },
-        {
-            "name": "latesome",
-            "type": "dictionary"
-        },
-        {
-            "name": "filoplume",
-            "type": "dictionary"
-        },
-        {
-            "name": "wetback",
-            "type": "dictionary"
-        },
-        {
-            "name": "racquetball",
-            "type": "dictionary"
-        },
-        {
-            "name": "lawlessness",
-            "type": "dictionary"
-        },
-        {
-            "name": "uraemia",
-            "type": "dictionary"
-        },
-        {
-            "name": "alphyl",
-            "type": "dictionary"
-        },
-        {
-            "name": "racialism",
-            "type": "dictionary"
-        },
-        {
-            "name": "ida",
-            "type": "dictionary"
-        },
-        {
-            "name": "riksmal",
-            "type": "dictionary"
-        },
-        {
-            "name": "trending",
-            "type": "dictionary"
-        },
-        {
-            "name": "oncology",
-            "type": "dictionary"
-        },
-        {
-            "name": "virtuefy",
-            "type": "dictionary"
-        },
-        {
-            "name": "indicia",
-            "type": "dictionary"
-        },
-        {
-            "name": "gander",
-            "type": "dictionary"
-        },
-        {
-            "name": "misbranded",
-            "type": "dictionary"
-        },
-        {
-            "name": "neurapophysis",
-            "type": "dictionary"
-        },
-        {
-            "name": "procreatory",
-            "type": "dictionary"
-        },
-        {
-            "name": "catchphrase",
-            "type": "dictionary"
-        },
-        {
-            "name": "nus",
-            "type": "dictionary"
-        },
-        {
-            "name": "winded",
-            "type": "dictionary"
-        },
-        {
-            "name": "renardine",
-            "type": "dictionary"
-        },
-        {
-            "name": "propinquous",
-            "type": "dictionary"
-        },
-        {
-            "name": "tacky",
-            "type": "dictionary"
-        },
-        {
-            "name": "beja",
-            "type": "dictionary"
-        },
-        {
-            "name": "piloncillo",
-            "type": "dictionary"
-        },
-        {
-            "name": "judah",
-            "type": "dictionary"
-        },
-        {
-            "name": "brassiere",
-            "type": "dictionary"
-        },
-        {
-            "name": "podzolize",
-            "type": "dictionary"
-        },
-        {
-            "name": "pubococcygeal",
-            "type": "dictionary"
-        },
-        {
-            "name": "starveling",
-            "type": "dictionary"
-        },
-        {
-            "name": "acuation",
-            "type": "dictionary"
-        },
-        {
-            "name": "rhodophane",
-            "type": "dictionary"
-        },
-        {
-            "name": "prismal",
-            "type": "dictionary"
-        },
-        {
-            "name": "rapper",
-            "type": "dictionary"
-        },
-        {
-            "name": "beagle",
-            "type": "dictionary"
-        },
-        {
-            "name": "pincette",
-            "type": "dictionary"
-        },
-        {
-            "name": "resuscitate",
-            "type": "dictionary"
-        },
-        {
-            "name": "madeiran",
-            "type": "dictionary"
-        },
-        {
-            "name": "bubba",
-            "type": "dictionary"
-        },
-        {
-            "name": "cyanosis",
-            "type": "dictionary"
-        },
-        {
-            "name": "montaged",
-            "type": "dictionary"
-        },
-        {
-            "name": "jumbie",
-            "type": "dictionary"
-        },
-        {
-            "name": "demonize",
-            "type": "dictionary"
-        },
-        {
-            "name": "inception",
-            "type": "dictionary"
-        },
-        {
-            "name": "meld",
-            "type": "dictionary"
-        },
-        {
-            "name": "exilement",
-            "type": "dictionary"
-        },
-        {
-            "name": "chirpy",
-            "type": "dictionary"
-        },
-        {
-            "name": "phanerozoic",
-            "type": "dictionary"
-        },
-        {
-            "name": "intercooler",
-            "type": "dictionary"
-        },
-        {
-            "name": "unbox",
-            "type": "dictionary"
-        },
-        {
-            "name": "prenotation",
-            "type": "dictionary"
-        },
-        {
-            "name": "osteolysis",
-            "type": "dictionary"
-        },
-        {
-            "name": "undissociated",
-            "type": "dictionary"
-        },
-        {
-            "name": "mungy",
-            "type": "dictionary"
-        },
-        {
-            "name": "acuminose",
-            "type": "dictionary"
-        },
-        {
-            "name": "historiographership",
-            "type": "dictionary"
-        },
-        {
-            "name": "achiote",
-            "type": "dictionary"
-        },
-        {
-            "name": "mahatma",
-            "type": "dictionary"
-        },
-        {
-            "name": "shamiana",
-            "type": "dictionary"
-        },
-        {
-            "name": "obstructedly",
-            "type": "dictionary"
-        },
-        {
-            "name": "snowberry",
-            "type": "dictionary"
-        },
-        {
-            "name": "establishmentarian",
-            "type": "dictionary"
-        },
-        {
-            "name": "netherlandish",
-            "type": "dictionary"
-        },
-        {
-            "name": "defension",
-            "type": "dictionary"
-        },
-        {
-            "name": "agonizedly",
-            "type": "dictionary"
-        },
-        {
-            "name": "postarytenoid",
-            "type": "dictionary"
-        },
-        {
-            "name": "fetterlock",
-            "type": "dictionary"
-        },
-        {
-            "name": "praxeological",
-            "type": "dictionary"
-        },
-        {
-            "name": "stercoraceous",
-            "type": "dictionary"
-        },
-        {
-            "name": "correspondency",
-            "type": "dictionary"
-        },
-        {
-            "name": "blower",
-            "type": "dictionary"
-        },
-        {
-            "name": "mytiliform",
-            "type": "dictionary"
-        },
-        {
-            "name": "nutriture",
-            "type": "dictionary"
-        },
-        {
-            "name": "cupule",
-            "type": "dictionary"
-        },
-        {
-            "name": "parallelepipedal",
-            "type": "dictionary"
-        },
-        {
-            "name": "potshot",
-            "type": "dictionary"
-        },
-        {
-            "name": "pitter",
-            "type": "dictionary"
-        },
-        {
-            "name": "bobcat",
-            "type": "dictionary"
-        },
-        {
-            "name": "immarcescible",
-            "type": "dictionary"
-        },
-        {
-            "name": "overstress",
-            "type": "dictionary"
-        },
-        {
-            "name": "monoaminergic",
-            "type": "dictionary"
-        },
-        {
-            "name": "seraing",
-            "type": "dictionary"
-        },
-        {
-            "name": "thereunder",
-            "type": "dictionary"
-        },
-        {
-            "name": "statometer",
-            "type": "dictionary"
-        },
-        {
-            "name": "rappist",
-            "type": "dictionary"
-        },
-        {
-            "name": "decrescent",
-            "type": "dictionary"
-        },
-        {
-            "name": "addle",
-            "type": "dictionary"
-        },
-        {
-            "name": "nematoda",
-            "type": "dictionary"
-        },
-        {
-            "name": "moulinet",
-            "type": "dictionary"
-        },
-        {
-            "name": "hutment",
-            "type": "dictionary"
-        },
-        {
-            "name": "stepdaughter",
-            "type": "dictionary"
-        },
-        {
-            "name": "angelus",
-            "type": "dictionary"
-        },
-        {
-            "name": "staker",
-            "type": "dictionary"
-        },
-        {
-            "name": "perifollicular",
-            "type": "dictionary"
-        },
-        {
-            "name": "telligraph",
-            "type": "dictionary"
-        },
-        {
-            "name": "tinstone",
-            "type": "dictionary"
-        },
-        {
-            "name": "micawberism",
-            "type": "dictionary"
-        },
-        {
-            "name": "prosonomasia",
-            "type": "dictionary"
-        },
-        {
-            "name": "dissoluble",
-            "type": "dictionary"
-        },
-        {
-            "name": "millboard",
-            "type": "dictionary"
-        },
-        {
-            "name": "quartziferous",
-            "type": "dictionary"
-        },
-        {
-            "name": "avar",
-            "type": "dictionary"
-        },
-        {
-            "name": "quartetto",
-            "type": "dictionary"
-        },
-        {
-            "name": "eucrite",
-            "type": "dictionary"
-        },
-        {
-            "name": "unliving",
-            "type": "dictionary"
-        },
-        {
-            "name": "metoestrous",
-            "type": "dictionary"
-        },
-        {
-            "name": "attuned",
-            "type": "dictionary"
-        },
-        {
-            "name": "babushka",
-            "type": "dictionary"
-        },
-        {
-            "name": "revisualization",
-            "type": "dictionary"
-        },
-        {
-            "name": "locomotor",
-            "type": "dictionary"
-        },
-        {
-            "name": "kinesiology",
-            "type": "dictionary"
-        },
-        {
-            "name": "telephotography",
-            "type": "dictionary"
-        },
-        {
-            "name": "daredevil",
-            "type": "dictionary"
-        },
-        {
-            "name": "unransomed",
-            "type": "dictionary"
-        },
-        {
-            "name": "selectman",
-            "type": "dictionary"
-        },
-        {
-            "name": "bustler",
-            "type": "dictionary"
-        },
-        {
-            "name": "patine",
-            "type": "dictionary"
-        },
-        {
-            "name": "proudful",
-            "type": "dictionary"
-        },
-        {
-            "name": "mincy",
-            "type": "dictionary"
-        },
-        {
-            "name": "cordwood",
-            "type": "dictionary"
-        },
-        {
-            "name": "fearfully",
-            "type": "dictionary"
-        },
-        {
-            "name": "bluebill",
-            "type": "dictionary"
-        },
-        {
-            "name": "pieridine",
-            "type": "dictionary"
-        },
-        {
-            "name": "dickens",
-            "type": "dictionary"
-        },
-        {
-            "name": "proscholium",
-            "type": "dictionary"
-        },
-        {
-            "name": "puparial",
-            "type": "dictionary"
-        },
-        {
-            "name": "exemplum",
-            "type": "dictionary"
-        },
-        {
-            "name": "unostensible",
-            "type": "dictionary"
-        },
-        {
-            "name": "girdler",
-            "type": "dictionary"
-        },
-        {
-            "name": "calenture",
-            "type": "dictionary"
-        },
-        {
-            "name": "tropicalize",
-            "type": "dictionary"
-        },
-        {
-            "name": "signory",
-            "type": "dictionary"
-        },
-        {
-            "name": "brachistochrone",
-            "type": "dictionary"
-        },
-        {
-            "name": "planer",
-            "type": "dictionary"
-        },
-        {
-            "name": "doubtless",
-            "type": "dictionary"
-        },
-        {
-            "name": "machinate",
-            "type": "dictionary"
-        },
-        {
-            "name": "miragy",
-            "type": "dictionary"
-        },
-        {
-            "name": "russificator",
-            "type": "dictionary"
-        },
-        {
-            "name": "preventionist",
-            "type": "dictionary"
-        },
-        {
-            "name": "physiognomist",
-            "type": "dictionary"
-        },
-        {
-            "name": "smithereens",
-            "type": "dictionary"
-        },
-        {
-            "name": "burbank",
-            "type": "dictionary"
-        },
-        {
-            "name": "camarilla",
-            "type": "dictionary"
-        },
-        {
-            "name": "weever",
-            "type": "dictionary"
-        },
-        {
-            "name": "rabinet",
-            "type": "dictionary"
-        },
-        {
-            "name": "macigno",
-            "type": "dictionary"
-        },
-        {
-            "name": "southernism",
-            "type": "dictionary"
-        },
-        {
-            "name": "customizable",
-            "type": "dictionary"
-        },
-        {
-            "name": "hallow",
-            "type": "dictionary"
-        },
-        {
-            "name": "qursh",
-            "type": "dictionary"
-        },
-        {
-            "name": "panoan",
-            "type": "dictionary"
-        },
-        {
-            "name": "outflanker",
-            "type": "dictionary"
-        },
-        {
-            "name": "outcoming",
-            "type": "dictionary"
-        },
-        {
-            "name": "hemiparesis",
-            "type": "dictionary"
-        },
-        {
-            "name": "tisane",
-            "type": "dictionary"
-        },
-        {
-            "name": "seleucid",
-            "type": "dictionary"
-        },
-        {
-            "name": "schlump",
-            "type": "dictionary"
-        },
-        {
-            "name": "cystoscope",
-            "type": "dictionary"
-        },
-        {
-            "name": "ital",
-            "type": "dictionary"
-        },
-        {
-            "name": "normanization",
-            "type": "dictionary"
-        },
-        {
-            "name": "poach",
-            "type": "dictionary"
-        },
-        {
-            "name": "gasser",
-            "type": "dictionary"
-        },
-        {
-            "name": "khan",
-            "type": "dictionary"
-        },
-        {
-            "name": "prosodus",
-            "type": "dictionary"
-        },
-        {
-            "name": "koel",
-            "type": "dictionary"
-        },
-        {
-            "name": "swage",
-            "type": "dictionary"
-        },
-        {
-            "name": "microclimatological",
-            "type": "dictionary"
-        },
-        {
-            "name": "rhyodacite",
-            "type": "dictionary"
-        },
-        {
-            "name": "swather",
-            "type": "dictionary"
-        },
-        {
-            "name": "biphasic",
-            "type": "dictionary"
-        },
-        {
-            "name": "venesection",
-            "type": "dictionary"
-        },
-        {
-            "name": "strapping",
-            "type": "dictionary"
-        },
-        {
-            "name": "kidvid",
-            "type": "dictionary"
-        },
-        {
-            "name": "heuretic",
-            "type": "dictionary"
-        },
-        {
-            "name": "multijugate",
-            "type": "dictionary"
-        },
-        {
-            "name": "psychogenetically",
-            "type": "dictionary"
-        },
-        {
-            "name": "tiered",
-            "type": "dictionary"
-        },
-        {
-            "name": "organzine",
-            "type": "dictionary"
-        },
-        {
-            "name": "newgate",
-            "type": "dictionary"
-        },
-        {
-            "name": "snaggle",
-            "type": "dictionary"
-        },
-        {
-            "name": "cliented",
-            "type": "dictionary"
-        },
-        {
-            "name": "belight",
-            "type": "dictionary"
-        },
-        {
-            "name": "streetcar",
-            "type": "dictionary"
-        },
-        {
-            "name": "bagatelle",
-            "type": "dictionary"
-        },
-        {
-            "name": "cafetiere",
-            "type": "dictionary"
-        },
-        {
-            "name": "polliniferous",
-            "type": "dictionary"
-        },
-        {
-            "name": "remainer",
-            "type": "dictionary"
-        },
-        {
-            "name": "chirography",
-            "type": "dictionary"
-        },
-        {
-            "name": "swabbie",
-            "type": "dictionary"
-        },
-        {
-            "name": "stationer",
-            "type": "dictionary"
-        },
-        {
-            "name": "insanely",
-            "type": "dictionary"
-        },
-        {
-            "name": "outvalue",
-            "type": "dictionary"
-        },
-        {
-            "name": "sirenia",
-            "type": "dictionary"
-        },
-        {
-            "name": "disemboguement",
-            "type": "dictionary"
-        },
-        {
-            "name": "autosome",
-            "type": "dictionary"
-        },
-        {
-            "name": "chalybeate",
-            "type": "dictionary"
-        },
-        {
-            "name": "rooky",
-            "type": "dictionary"
-        },
-        {
-            "name": "lyonnaise",
-            "type": "dictionary"
-        },
-        {
-            "name": "pedology",
-            "type": "dictionary"
-        },
-        {
-            "name": "overrake",
-            "type": "dictionary"
-        },
-        {
-            "name": "excommunicator",
-            "type": "dictionary"
-        },
-        {
-            "name": "ostmannic",
-            "type": "dictionary"
-        },
-        {
-            "name": "barter",
-            "type": "dictionary"
-        },
-        {
-            "name": "rutaceous",
-            "type": "dictionary"
-        },
-        {
-            "name": "grayling",
-            "type": "dictionary"
-        },
-        {
-            "name": "overplus",
-            "type": "dictionary"
-        },
-        {
-            "name": "teeny",
-            "type": "dictionary"
-        },
-        {
-            "name": "haugh",
-            "type": "dictionary"
-        },
-        {
-            "name": "bhutanese",
-            "type": "dictionary"
-        },
-        {
-            "name": "renin",
-            "type": "dictionary"
-        },
-        {
-            "name": "niggling",
-            "type": "dictionary"
-        },
-        {
-            "name": "silurian",
-            "type": "dictionary"
-        },
-        {
-            "name": "aerophile",
-            "type": "dictionary"
-        },
-        {
-            "name": "unscrew",
-            "type": "dictionary"
-        },
-        {
-            "name": "tammanyite",
-            "type": "dictionary"
-        },
-        {
-            "name": "unfading",
-            "type": "dictionary"
-        },
-        {
-            "name": "malayic",
-            "type": "dictionary"
-        },
-        {
-            "name": "pentelican",
-            "type": "dictionary"
-        },
-        {
-            "name": "okapi",
-            "type": "dictionary"
-        },
-        {
-            "name": "chunderous",
-            "type": "dictionary"
-        },
-        {
-            "name": "polyethnic",
-            "type": "dictionary"
-        },
-        {
-            "name": "arthrology",
-            "type": "dictionary"
-        },
-        {
-            "name": "adenitis",
-            "type": "dictionary"
-        },
-        {
-            "name": "abelian",
-            "type": "dictionary"
-        },
-        {
-            "name": "monolith",
-            "type": "dictionary"
-        },
-        {
-            "name": "soberly",
-            "type": "dictionary"
-        },
-        {
-            "name": "zeroth",
-            "type": "dictionary"
-        },
-        {
-            "name": "ovogenesis",
-            "type": "dictionary"
-        },
-        {
-            "name": "notability",
-            "type": "dictionary"
-        },
-        {
-            "name": "animative",
-            "type": "dictionary"
-        },
-        {
-            "name": "opulency",
-            "type": "dictionary"
-        },
-        {
-            "name": "reunitable",
-            "type": "dictionary"
-        },
-        {
-            "name": "pteridophyta",
-            "type": "dictionary"
-        },
-        {
-            "name": "meganthropus",
-            "type": "dictionary"
-        },
-        {
-            "name": "quantizer",
-            "type": "dictionary"
-        },
-        {
-            "name": "hexateuch",
-            "type": "dictionary"
-        },
-        {
-            "name": "resaw",
-            "type": "dictionary"
-        },
-        {
-            "name": "missilery",
-            "type": "dictionary"
-        },
-        {
-            "name": "parisian",
-            "type": "dictionary"
-        },
-        {
-            "name": "dumpy",
-            "type": "dictionary"
-        },
-        {
-            "name": "dagga",
-            "type": "dictionary"
-        },
-        {
-            "name": "taxology",
-            "type": "dictionary"
-        },
-        {
-            "name": "maquillage",
-            "type": "dictionary"
-        },
-        {
-            "name": "sikkimese",
-            "type": "dictionary"
-        },
-        {
-            "name": "alterate",
-            "type": "dictionary"
-        },
-        {
-            "name": "pinwale",
-            "type": "dictionary"
-        },
-        {
-            "name": "saarbrucken",
-            "type": "dictionary"
-        },
-        {
-            "name": "upbraid",
-            "type": "dictionary"
-        },
-        {
-            "name": "indention",
-            "type": "dictionary"
-        },
-        {
-            "name": "superdominant",
-            "type": "dictionary"
-        },
-        {
-            "name": "craftswoman",
-            "type": "dictionary"
-        },
-        {
-            "name": "capitellum",
-            "type": "dictionary"
-        },
-        {
-            "name": "unparted",
-            "type": "dictionary"
-        },
-        {
-            "name": "premonstratensian",
-            "type": "dictionary"
-        },
-        {
-            "name": "topper",
-            "type": "dictionary"
-        },
-        {
-            "name": "signor",
-            "type": "dictionary"
-        },
-        {
-            "name": "speedster",
-            "type": "dictionary"
-        },
-        {
-            "name": "unperfective",
-            "type": "dictionary"
-        },
-        {
-            "name": "aplastic",
-            "type": "dictionary"
-        },
-        {
-            "name": "acanonical",
-            "type": "dictionary"
-        },
-        {
-            "name": "phosphoglucomutase",
-            "type": "dictionary"
-        },
-        {
-            "name": "ischia",
-            "type": "dictionary"
-        },
-        {
-            "name": "bistro",
-            "type": "dictionary"
-        },
-        {
-            "name": "ariadne",
-            "type": "dictionary"
-        },
-        {
-            "name": "fundraising",
-            "type": "dictionary"
-        },
-        {
-            "name": "reduplicate",
-            "type": "dictionary"
-        },
-        {
-            "name": "ermines",
-            "type": "dictionary"
-        },
-        {
-            "name": "volubility",
-            "type": "dictionary"
-        },
-        {
-            "name": "lycaenid",
-            "type": "dictionary"
-        },
-        {
-            "name": "peninsularity",
-            "type": "dictionary"
-        },
-        {
-            "name": "babouvism",
-            "type": "dictionary"
-        },
-        {
-            "name": "nosegay",
-            "type": "dictionary"
-        },
-        {
-            "name": "pectase",
-            "type": "dictionary"
-        },
-        {
-            "name": "preceptual",
-            "type": "dictionary"
-        },
-        {
-            "name": "bookwards",
-            "type": "dictionary"
-        },
-        {
-            "name": "prescript",
-            "type": "dictionary"
+            "name": "paragram",
+            "type": 0
         },
         {
             "name": "vienna",
-            "type": "dictionary"
+            "type": 0
         },
         {
-            "name": "poppywort",
-            "type": "dictionary"
+            "name": "medievalize",
+            "type": 0
         },
         {
-            "name": "unfarmed",
-            "type": "dictionary"
+            "name": "kilderkin",
+            "type": 0
         },
         {
-            "name": "checkout",
-            "type": "dictionary"
+            "name": "orientite",
+            "type": 0
         },
         {
-            "name": "capriccioso",
-            "type": "dictionary"
+            "name": "concertist",
+            "type": 0
         },
         {
-            "name": "pisgah",
-            "type": "dictionary"
+            "name": "tenotomy",
+            "type": 0
         },
         {
-            "name": "overliberal",
-            "type": "dictionary"
+            "name": "recreationist",
+            "type": 0
         },
         {
-            "name": "piss",
-            "type": "dictionary"
+            "name": "matildite",
+            "type": 0
         },
         {
-            "name": "buss",
-            "type": "dictionary"
+            "name": "rutin",
+            "type": 0
         },
         {
-            "name": "originalness",
-            "type": "dictionary"
+            "name": "marbling",
+            "type": 0
         },
         {
-            "name": "autocar",
-            "type": "dictionary"
+            "name": "triploblastic",
+            "type": 0
         },
         {
-            "name": "salish",
-            "type": "dictionary"
+            "name": "pensionary",
+            "type": 0
         },
         {
-            "name": "oosporous",
-            "type": "dictionary"
+            "name": "mica",
+            "type": 1
         },
         {
-            "name": "insectarium",
-            "type": "dictionary"
+            "name": "serum",
+            "type": 1
         },
         {
-            "name": "uranothorite",
-            "type": "dictionary"
+            "name": "knock",
+            "type": 1
         },
         {
-            "name": "sprechgesang",
-            "type": "dictionary"
+            "name": "carbon",
+            "type": 1
         },
         {
-            "name": "macaroon",
-            "type": "dictionary"
+            "name": "trade",
+            "type": 1
         },
         {
-            "name": "untransferable",
-            "type": "dictionary"
+            "name": "stipulated",
+            "type": 1
         },
         {
-            "name": "rappen",
-            "type": "dictionary"
+            "name": "unclear",
+            "type": 1
         },
         {
-            "name": "apostatize",
-            "type": "dictionary"
+            "name": "unbelievable",
+            "type": 1
         },
         {
-            "name": "seersucker",
-            "type": "dictionary"
+            "name": "buckwheat",
+            "type": 1
         },
         {
-            "name": "opinionately",
-            "type": "dictionary"
+            "name": "settler",
+            "type": 1
         },
         {
-            "name": "unrespectful",
-            "type": "dictionary"
+            "name": "conservatory",
+            "type": 1
         },
         {
-            "name": "autotomizing",
-            "type": "dictionary"
+            "name": "shrub",
+            "type": 1
         },
         {
-            "name": "grumpish",
-            "type": "dictionary"
+            "name": "empirism",
+            "type": 1
         },
         {
-            "name": "coterminous",
-            "type": "dictionary"
+            "name": "nor",
+            "type": 1
         },
         {
-            "name": "ire",
-            "type": "dictionary"
+            "name": "exercise",
+            "type": 1
         },
         {
-            "name": "pratique",
-            "type": "dictionary"
+            "name": "regard",
+            "type": 1
         },
         {
-            "name": "tropidine",
-            "type": "dictionary"
+            "name": "truncate",
+            "type": 1
         },
         {
-            "name": "canard",
-            "type": "dictionary"
+            "name": "unrich",
+            "type": 1
         },
         {
-            "name": "spondylosis",
-            "type": "dictionary"
+            "name": "institutionalized",
+            "type": 1
         },
         {
-            "name": "inseminator",
-            "type": "dictionary"
+            "name": "distinguishable",
+            "type": 1
         },
         {
-            "name": "porkling",
-            "type": "dictionary"
+            "name": "collective",
+            "type": 1
         },
         {
-            "name": "redescription",
-            "type": "dictionary"
+            "name": "paralysis",
+            "type": 1
         },
         {
-            "name": "rusting",
-            "type": "dictionary"
+            "name": "still",
+            "type": 1
         },
         {
-            "name": "accurse",
-            "type": "dictionary"
+            "name": "rationalize",
+            "type": 1
         },
         {
-            "name": "vulvitis",
-            "type": "dictionary"
+            "name": "distrust",
+            "type": 1
         },
         {
-            "name": "outscore",
-            "type": "dictionary"
+            "name": "plethysmograph",
+            "type": 1
         },
         {
-            "name": "podoscaph",
-            "type": "dictionary"
+            "name": "genius",
+            "type": 1
         },
         {
-            "name": "traduct",
-            "type": "dictionary"
+            "name": "vehicle",
+            "type": 1
         },
         {
-            "name": "unplant",
-            "type": "dictionary"
+            "name": "resort",
+            "type": 1
         },
         {
-            "name": "owerance",
-            "type": "dictionary"
+            "name": "characterization",
+            "type": 1
         },
         {
-            "name": "minny",
-            "type": "dictionary"
+            "name": "mystagogical",
+            "type": 1
         },
         {
-            "name": "pseudomorphosis",
-            "type": "dictionary"
+            "name": "inconvenience",
+            "type": 1
         },
         {
-            "name": "pisco",
-            "type": "dictionary"
+            "name": "animalculism",
+            "type": 1
         },
         {
-            "name": "commonable",
-            "type": "dictionary"
+            "name": "scurrilous",
+            "type": 1
         },
         {
-            "name": "atreus",
-            "type": "dictionary"
+            "name": "zygote",
+            "type": 1
         },
         {
-            "name": "tropotaxis",
-            "type": "dictionary"
+            "name": "waterfowl",
+            "type": 1
         },
         {
-            "name": "unquarried",
-            "type": "dictionary"
+            "name": "individual",
+            "type": 1
         },
         {
-            "name": "boogeyman",
-            "type": "dictionary"
+            "name": "studium",
+            "type": 1
         },
         {
-            "name": "waterily",
-            "type": "dictionary"
+            "name": "whipped",
+            "type": 1
         },
         {
-            "name": "mimosite",
-            "type": "dictionary"
+            "name": "suburbicarian",
+            "type": 1
         },
         {
-            "name": "ingoing",
-            "type": "dictionary"
+            "name": "whip",
+            "type": 1
         },
         {
-            "name": "shindig",
-            "type": "dictionary"
+            "name": "measured",
+            "type": 1
         },
         {
-            "name": "unreceding",
-            "type": "dictionary"
+            "name": "tungsten",
+            "type": 1
         },
         {
-            "name": "mediative",
-            "type": "dictionary"
+            "name": "tertiary",
+            "type": 1
         },
         {
-            "name": "illinoian",
-            "type": "dictionary"
+            "name": "tinder",
+            "type": 1
         },
         {
-            "name": "swarf",
-            "type": "dictionary"
+            "name": "as",
+            "type": 1
         },
         {
-            "name": "centumvirate",
-            "type": "dictionary"
+            "name": "mimicry",
+            "type": 1
         },
         {
-            "name": "studier",
-            "type": "dictionary"
+            "name": "tectum",
+            "type": 1
         },
         {
-            "name": "rotodyne",
-            "type": "dictionary"
+            "name": "cask",
+            "type": 1
         },
         {
-            "name": "pindarism",
-            "type": "dictionary"
+            "name": "algesic",
+            "type": 1
         },
         {
-            "name": "neutralness",
-            "type": "dictionary"
+            "name": "modius",
+            "type": 1
         },
         {
-            "name": "phytochrome",
-            "type": "dictionary"
+            "name": "layering",
+            "type": 1
         },
         {
-            "name": "paxilliform",
-            "type": "dictionary"
+            "name": "complicity",
+            "type": 1
         },
         {
-            "name": "patrin",
-            "type": "dictionary"
+            "name": "assure",
+            "type": 1
         },
         {
-            "name": "federalness",
-            "type": "dictionary"
+            "name": "carry",
+            "type": 1
         },
         {
-            "name": "discongruity",
-            "type": "dictionary"
+            "name": "phonematic",
+            "type": 1
         },
         {
-            "name": "idiotical",
-            "type": "dictionary"
+            "name": "unable",
+            "type": 1
         },
         {
-            "name": "clinometer",
-            "type": "dictionary"
+            "name": "someone",
+            "type": 1
         },
         {
-            "name": "distensibility",
-            "type": "dictionary"
+            "name": "these",
+            "type": 1
         },
         {
-            "name": "matronymic",
-            "type": "dictionary"
+            "name": "apart",
+            "type": 1
         },
         {
-            "name": "pangaea",
-            "type": "dictionary"
+            "name": "philomath",
+            "type": 1
         },
         {
-            "name": "confit",
-            "type": "dictionary"
+            "name": "reception",
+            "type": 1
         },
         {
-            "name": "lobelia",
-            "type": "dictionary"
+            "name": "slack",
+            "type": 1
         },
         {
-            "name": "blackishness",
-            "type": "dictionary"
+            "name": "ruse",
+            "type": 1
         },
         {
-            "name": "unconscient",
-            "type": "dictionary"
+            "name": "acrolein",
+            "type": 1
         },
         {
-            "name": "unmet",
-            "type": "dictionary"
+            "name": "hydrolysis",
+            "type": 1
         },
         {
-            "name": "acalypha",
-            "type": "dictionary"
+            "name": "protozoan",
+            "type": 1
         },
         {
-            "name": "delate",
-            "type": "dictionary"
+            "name": "disillusioned",
+            "type": 1
         },
         {
-            "name": "rokelay",
-            "type": "dictionary"
+            "name": "intense",
+            "type": 1
         },
         {
-            "name": "subspecialist",
-            "type": "dictionary"
+            "name": "learning",
+            "type": 1
         },
         {
-            "name": "untrussed",
-            "type": "dictionary"
+            "name": "albumenize",
+            "type": 1
         },
         {
-            "name": "breathalyse",
-            "type": "dictionary"
-        },
-        {
-            "name": "citizenize",
-            "type": "dictionary"
-        },
-        {
-            "name": "eurasian",
-            "type": "dictionary"
-        },
-        {
-            "name": "palaeolithic",
-            "type": "dictionary"
-        },
-        {
-            "name": "cryptorchism",
-            "type": "dictionary"
-        },
-        {
-            "name": "tommyrot",
-            "type": "dictionary"
-        },
-        {
-            "name": "hearthward",
-            "type": "dictionary"
-        },
-        {
-            "name": "smote",
-            "type": "dictionary"
-        },
-        {
-            "name": "confute",
-            "type": "dictionary"
-        },
-        {
-            "name": "subliterature",
-            "type": "dictionary"
-        },
-        {
-            "name": "overwillingly",
-            "type": "dictionary"
-        },
-        {
-            "name": "preambling",
-            "type": "dictionary"
-        },
-        {
-            "name": "mil",
-            "type": "dictionary"
-        },
-        {
-            "name": "brotherwort",
-            "type": "dictionary"
-        },
-        {
-            "name": "foulard",
-            "type": "dictionary"
-        },
-        {
-            "name": "porkfish",
-            "type": "dictionary"
-        },
-        {
-            "name": "overtop",
-            "type": "dictionary"
-        },
-        {
-            "name": "diabolicalness",
-            "type": "dictionary"
-        },
-        {
-            "name": "breathtakingly",
-            "type": "dictionary"
-        },
-        {
-            "name": "proventricular",
-            "type": "dictionary"
-        },
-        {
-            "name": "pleasureful",
-            "type": "dictionary"
-        },
-        {
-            "name": "puppetry",
-            "type": "dictionary"
-        },
-        {
-            "name": "anagrammatic",
-            "type": "dictionary"
-        },
-        {
-            "name": "aspherical",
-            "type": "dictionary"
-        },
-        {
-            "name": "boxty",
-            "type": "dictionary"
-        },
-        {
-            "name": "crocosmia",
-            "type": "dictionary"
-        },
-        {
-            "name": "candleholder",
-            "type": "dictionary"
-        },
-        {
-            "name": "ist",
-            "type": "dictionary"
-        },
-        {
-            "name": "fogger",
-            "type": "dictionary"
-        },
-        {
-            "name": "ew",
-            "type": "dictionary"
-        },
-        {
-            "name": "wi",
-            "type": "dictionary"
-        },
-        {
-            "name": "begrudgingly",
-            "type": "dictionary"
-        },
-        {
-            "name": "prevolitional",
-            "type": "dictionary"
-        },
-        {
-            "name": "vichyssoise",
-            "type": "dictionary"
-        },
-        {
-            "name": "ogreishly",
-            "type": "dictionary"
-        },
-        {
-            "name": "beforetimes",
-            "type": "dictionary"
-        },
-        {
-            "name": "diadelphous",
-            "type": "dictionary"
-        },
-        {
-            "name": "disconducive",
-            "type": "dictionary"
-        },
-        {
-            "name": "photovisual",
-            "type": "dictionary"
-        },
-        {
-            "name": "lett",
-            "type": "dictionary"
-        },
-        {
-            "name": "depressor",
-            "type": "dictionary"
-        },
-        {
-            "name": "nestor",
-            "type": "dictionary"
-        },
-        {
-            "name": "publishment",
-            "type": "dictionary"
-        },
-        {
-            "name": "ppl",
-            "type": "dictionary"
-        },
-        {
-            "name": "abortifacient",
-            "type": "dictionary"
-        },
-        {
-            "name": "spoilsman",
-            "type": "dictionary"
-        },
-        {
-            "name": "muchly",
-            "type": "dictionary"
-        },
-        {
-            "name": "cranny",
-            "type": "dictionary"
-        },
-        {
-            "name": "pluries",
-            "type": "dictionary"
-        },
-        {
-            "name": "priestshire",
-            "type": "dictionary"
-        },
-        {
-            "name": "undershrub",
-            "type": "dictionary"
-        },
-        {
-            "name": "munster",
-            "type": "dictionary"
-        },
-        {
-            "name": "carabiniere",
-            "type": "dictionary"
-        },
-        {
-            "name": "mobocrat",
-            "type": "dictionary"
-        },
-        {
-            "name": "awacs",
-            "type": "dictionary"
-        },
-        {
-            "name": "mahu",
-            "type": "dictionary"
-        },
-        {
-            "name": "novenary",
-            "type": "dictionary"
-        },
-        {
-            "name": "embed",
-            "type": "dictionary"
-        },
-        {
-            "name": "blackshirt",
-            "type": "dictionary"
-        },
-        {
-            "name": "pacifistically",
-            "type": "dictionary"
-        },
-        {
-            "name": "susceptive",
-            "type": "dictionary"
-        },
-        {
-            "name": "likin",
-            "type": "dictionary"
-        },
-        {
-            "name": "phosphodiesterase",
-            "type": "dictionary"
-        },
-        {
-            "name": "oversusceptible",
-            "type": "dictionary"
-        },
-        {
-            "name": "preventative",
-            "type": "dictionary"
-        },
-        {
-            "name": "chrysolite",
-            "type": "dictionary"
-        },
-        {
-            "name": "aeroplankton",
-            "type": "dictionary"
-        },
-        {
-            "name": "micronesia",
-            "type": "dictionary"
-        },
-        {
-            "name": "humourless",
-            "type": "dictionary"
-        },
-        {
-            "name": "julian",
-            "type": "dictionary"
-        },
-        {
-            "name": "unerring",
-            "type": "dictionary"
-        },
-        {
-            "name": "constitutionality",
-            "type": "dictionary"
-        },
-        {
-            "name": "poncelet",
-            "type": "dictionary"
-        },
-        {
-            "name": "ipsilateral",
-            "type": "dictionary"
-        },
-        {
-            "name": "ashet",
-            "type": "dictionary"
-        },
-        {
-            "name": "petiolated",
-            "type": "dictionary"
-        },
-        {
-            "name": "decontaminate",
-            "type": "dictionary"
-        },
-        {
-            "name": "antenniform",
-            "type": "dictionary"
-        },
-        {
-            "name": "crossover",
-            "type": "dictionary"
-        },
-        {
-            "name": "fetor",
-            "type": "dictionary"
-        },
-        {
-            "name": "predikant",
-            "type": "dictionary"
-        },
-        {
-            "name": "sublimatory",
-            "type": "dictionary"
-        },
-        {
-            "name": "bazooka",
-            "type": "dictionary"
-        },
-        {
-            "name": "unmurmured",
-            "type": "dictionary"
-        },
-        {
-            "name": "rosser",
-            "type": "dictionary"
-        },
-        {
-            "name": "notonectid",
-            "type": "dictionary"
-        },
-        {
-            "name": "metanalysis",
-            "type": "dictionary"
-        },
-        {
-            "name": "proslambanomenos",
-            "type": "dictionary"
-        },
-        {
-            "name": "basher",
-            "type": "dictionary"
-        },
-        {
-            "name": "unrash",
-            "type": "dictionary"
-        },
-        {
-            "name": "regula",
-            "type": "dictionary"
-        },
-        {
-            "name": "maculopapular",
-            "type": "dictionary"
-        },
-        {
-            "name": "porky",
-            "type": "dictionary"
-        },
-        {
-            "name": "monactinellid",
-            "type": "dictionary"
-        },
-        {
-            "name": "outfox",
-            "type": "dictionary"
-        },
-        {
-            "name": "scissorer",
-            "type": "dictionary"
-        },
-        {
-            "name": "fenestella",
-            "type": "dictionary"
-        },
-        {
-            "name": "canister",
-            "type": "dictionary"
-        },
-        {
-            "name": "overfreight",
-            "type": "dictionary"
-        },
-        {
-            "name": "prowl",
-            "type": "dictionary"
-        },
-        {
-            "name": "pathlessness",
-            "type": "dictionary"
-        },
-        {
-            "name": "unperplex",
-            "type": "dictionary"
-        },
-        {
-            "name": "oc",
-            "type": "dictionary"
-        },
-        {
-            "name": "subsistency",
-            "type": "dictionary"
-        },
-        {
-            "name": "microculture",
-            "type": "dictionary"
-        },
-        {
-            "name": "nipmuc",
-            "type": "dictionary"
-        },
-        {
-            "name": "subaudition",
-            "type": "dictionary"
-        },
-        {
-            "name": "rosminianism",
-            "type": "dictionary"
-        },
-        {
-            "name": "aeriform",
-            "type": "dictionary"
-        },
-        {
-            "name": "sortilege",
-            "type": "dictionary"
-        },
-        {
-            "name": "mackinawed",
-            "type": "dictionary"
-        },
-        {
-            "name": "megaron",
-            "type": "dictionary"
-        },
-        {
-            "name": "pierrot",
-            "type": "dictionary"
-        },
-        {
-            "name": "pelobatid",
-            "type": "dictionary"
-        },
-        {
-            "name": "precompose",
-            "type": "dictionary"
-        },
-        {
-            "name": "retinoscopic",
-            "type": "dictionary"
-        },
-        {
-            "name": "subrepent",
-            "type": "dictionary"
-        },
-        {
-            "name": "perstringe",
-            "type": "dictionary"
-        },
-        {
-            "name": "wreathe",
-            "type": "dictionary"
-        },
-        {
-            "name": "sticker",
-            "type": "dictionary"
-        },
-        {
-            "name": "reportership",
-            "type": "dictionary"
-        },
-        {
-            "name": "unwatered",
-            "type": "dictionary"
-        },
-        {
-            "name": "rassle",
-            "type": "dictionary"
-        },
-        {
-            "name": "electricalness",
-            "type": "dictionary"
-        },
-        {
-            "name": "cumberland",
-            "type": "dictionary"
-        },
-        {
-            "name": "overdone",
-            "type": "dictionary"
-        },
-        {
-            "name": "arbitress",
-            "type": "dictionary"
-        },
-        {
-            "name": "metropolitanate",
-            "type": "dictionary"
-        },
-        {
-            "name": "wordlore",
-            "type": "dictionary"
-        },
-        {
-            "name": "hereditation",
-            "type": "dictionary"
-        },
-        {
-            "name": "authorcraft",
-            "type": "dictionary"
-        },
-        {
-            "name": "newspeak",
-            "type": "dictionary"
-        },
-        {
-            "name": "discomycete",
-            "type": "dictionary"
-        },
-        {
-            "name": "baseman",
-            "type": "dictionary"
-        },
-        {
-            "name": "barbarize",
-            "type": "dictionary"
-        },
-        {
-            "name": "nizam",
-            "type": "dictionary"
-        },
-        {
-            "name": "puddening",
-            "type": "dictionary"
-        },
-        {
-            "name": "gosh",
-            "type": "dictionary"
-        },
-        {
-            "name": "nobody",
-            "type": "dictionary"
-        },
-        {
-            "name": "substantivally",
-            "type": "dictionary"
-        },
-        {
-            "name": "polynesic",
-            "type": "dictionary"
-        },
-        {
-            "name": "panegyricize",
-            "type": "dictionary"
-        },
-        {
-            "name": "unperished",
-            "type": "dictionary"
-        },
-        {
-            "name": "unscramble",
-            "type": "dictionary"
-        },
-        {
-            "name": "opinant",
-            "type": "dictionary"
-        },
-        {
-            "name": "reflectorized",
-            "type": "dictionary"
-        },
-        {
-            "name": "unassociated",
-            "type": "dictionary"
-        },
-        {
-            "name": "miscall",
-            "type": "dictionary"
-        },
-        {
-            "name": "orison",
-            "type": "dictionary"
-        },
-        {
-            "name": "reveller",
-            "type": "dictionary"
-        },
-        {
-            "name": "citoyen",
-            "type": "dictionary"
-        },
-        {
-            "name": "uniatism",
-            "type": "dictionary"
-        },
-        {
-            "name": "uncontradicted",
-            "type": "dictionary"
-        },
-        {
-            "name": "simulator",
-            "type": "dictionary"
-        },
-        {
-            "name": "redispose",
-            "type": "dictionary"
-        },
-        {
-            "name": "woolshed",
-            "type": "dictionary"
-        },
-        {
-            "name": "elasticize",
-            "type": "dictionary"
-        },
-        {
-            "name": "obeche",
-            "type": "dictionary"
-        },
-        {
-            "name": "assorted",
-            "type": "kernel"
-        },
-        {
-            "name": "condition",
-            "type": "kernel"
-        },
-        {
-            "name": "retinoscopy",
-            "type": "kernel"
-        },
-        {
-            "name": "perdrigon",
-            "type": "kernel"
-        },
-        {
-            "name": "rongeur",
-            "type": "kernel"
-        },
-        {
-            "name": "perigynous",
-            "type": "kernel"
-        },
-        {
-            "name": "hermetic",
-            "type": "kernel"
-        },
-        {
-            "name": "tribe",
-            "type": "kernel"
-        },
-        {
-            "name": "boastful",
-            "type": "kernel"
-        },
-        {
-            "name": "reinvigorate",
-            "type": "kernel"
-        },
-        {
-            "name": "armour",
-            "type": "kernel"
-        },
-        {
-            "name": "incorporation",
-            "type": "kernel"
-        },
-        {
-            "name": "directory",
-            "type": "kernel"
-        },
-        {
-            "name": "corner",
-            "type": "kernel"
-        },
-        {
-            "name": "writing",
-            "type": "kernel"
-        },
-        {
-            "name": "potto",
-            "type": "kernel"
-        },
-        {
-            "name": "veal",
-            "type": "kernel"
-        },
-        {
-            "name": "continually",
-            "type": "kernel"
-        },
-        {
-            "name": "digit",
-            "type": "kernel"
-        },
-        {
-            "name": "dentate",
-            "type": "kernel"
-        },
-        {
-            "name": "gnomon",
-            "type": "kernel"
-        },
-        {
-            "name": "testify",
-            "type": "kernel"
-        },
-        {
-            "name": "unclothed",
-            "type": "kernel"
-        },
-        {
-            "name": "goldcrest",
-            "type": "kernel"
-        },
-        {
-            "name": "ooze",
-            "type": "kernel"
-        },
-        {
-            "name": "entrenched",
-            "type": "kernel"
-        },
-        {
-            "name": "second",
-            "type": "kernel"
-        },
-        {
-            "name": "definition",
-            "type": "kernel"
-        },
-        {
-            "name": "surrebutter",
-            "type": "kernel"
-        },
-        {
-            "name": "evaluate",
-            "type": "kernel"
-        },
-        {
-            "name": "potash",
-            "type": "kernel"
-        },
-        {
-            "name": "pothos",
-            "type": "kernel"
-        },
-        {
-            "name": "predict",
-            "type": "kernel"
-        },
-        {
-            "name": "borax",
-            "type": "kernel"
-        },
-        {
-            "name": "chevron",
-            "type": "kernel"
-        },
-        {
-            "name": "wholly",
-            "type": "kernel"
-        },
-        {
-            "name": "artifice",
-            "type": "kernel"
-        },
-        {
-            "name": "other",
-            "type": "kernel"
-        },
-        {
-            "name": "sty",
-            "type": "kernel"
-        },
-        {
-            "name": "foundational",
-            "type": "kernel"
-        },
-        {
-            "name": "originally",
-            "type": "kernel"
-        },
-        {
-            "name": "infliction",
-            "type": "kernel"
-        },
-        {
-            "name": "tremulous",
-            "type": "kernel"
-        },
-        {
-            "name": "gimmick",
-            "type": "kernel"
-        },
-        {
-            "name": "condiment",
-            "type": "kernel"
-        },
-        {
-            "name": "sinuate",
-            "type": "kernel"
-        },
-        {
-            "name": "sexangular",
-            "type": "kernel"
-        },
-        {
-            "name": "unmechanical",
-            "type": "kernel"
-        },
-        {
-            "name": "reforest",
-            "type": "kernel"
-        },
-        {
-            "name": "syphiloma",
-            "type": "kernel"
-        },
-        {
-            "name": "melanocratic",
-            "type": "kernel"
-        },
-        {
-            "name": "paperbark",
-            "type": "kernel"
-        },
-        {
-            "name": "proclitic",
-            "type": "kernel"
-        },
-        {
-            "name": "intrude",
-            "type": "kernel"
-        },
-        {
-            "name": "certify",
-            "type": "kernel"
-        },
-        {
-            "name": "stimulus",
-            "type": "kernel"
-        },
-        {
-            "name": "fraudulently",
-            "type": "kernel"
-        },
-        {
-            "name": "monsoon",
-            "type": "kernel"
-        },
-        {
-            "name": "weird",
-            "type": "kernel"
-        },
-        {
-            "name": "prinkle",
-            "type": "kernel"
-        },
-        {
-            "name": "tendinous",
-            "type": "kernel"
-        },
-        {
-            "name": "autotransfusion",
-            "type": "kernel"
-        },
-        {
-            "name": "confederation",
-            "type": "kernel"
-        },
-        {
-            "name": "extort",
-            "type": "kernel"
-        },
-        {
-            "name": "fancy",
-            "type": "kernel"
-        },
-        {
-            "name": "suppression",
-            "type": "kernel"
-        },
-        {
-            "name": "intercellular",
-            "type": "kernel"
-        },
-        {
-            "name": "odorous",
-            "type": "kernel"
-        },
-        {
-            "name": "exclamatory",
-            "type": "kernel"
-        },
-        {
-            "name": "duple",
-            "type": "kernel"
-        },
-        {
-            "name": "shack",
-            "type": "kernel"
-        },
-        {
-            "name": "ganglionectomy",
-            "type": "kernel"
-        },
-        {
-            "name": "heredity",
-            "type": "kernel"
-        },
-        {
-            "name": "gentile",
-            "type": "kernel"
-        },
-        {
-            "name": "virtuoso",
-            "type": "kernel"
-        },
-        {
-            "name": "rhabdom",
-            "type": "kernel"
-        },
-        {
-            "name": "cannabis",
-            "type": "kernel"
-        },
-        {
-            "name": "transplant",
-            "type": "kernel"
-        },
-        {
-            "name": "capsicum",
-            "type": "kernel"
-        },
-        {
-            "name": "nicety",
-            "type": "kernel"
-        },
-        {
-            "name": "stage",
-            "type": "kernel"
-        },
-        {
-            "name": "invigorating",
-            "type": "kernel"
-        },
-        {
-            "name": "automaton",
-            "type": "kernel"
-        },
-        {
-            "name": "snub",
-            "type": "kernel"
-        },
-        {
-            "name": "complicating",
-            "type": "kernel"
-        },
-        {
-            "name": "locally",
-            "type": "kernel"
-        },
-        {
-            "name": "fairly",
-            "type": "kernel"
-        },
-        {
-            "name": "remarkably",
-            "type": "kernel"
-        },
-        {
-            "name": "superciliary",
-            "type": "kernel"
-        },
-        {
-            "name": "merit",
-            "type": "kernel"
-        },
-        {
-            "name": "floor",
-            "type": "kernel"
-        },
-        {
-            "name": "prepuce",
-            "type": "kernel"
-        },
-        {
-            "name": "spray",
-            "type": "kernel"
-        },
-        {
-            "name": "catalytic",
-            "type": "kernel"
-        },
-        {
-            "name": "crochet",
-            "type": "kernel"
-        },
-        {
-            "name": "ingress",
-            "type": "kernel"
-        },
-        {
-            "name": "tear",
-            "type": "kernel"
-        },
-        {
-            "name": "recidive",
-            "type": "kernel"
-        },
-        {
-            "name": "etymological",
-            "type": "kernel"
-        },
-        {
-            "name": "long",
-            "type": "kernel"
-        },
-        {
-            "name": "snowstorm",
-            "type": "kernel"
-        },
-        {
-            "name": "ergotism",
-            "type": "kernel"
-        },
-        {
-            "name": "factual",
-            "type": "kernel"
-        },
-        {
-            "name": "underpart",
-            "type": "kernel"
-        },
-        {
-            "name": "vegetarian",
-            "type": "kernel"
-        },
-        {
-            "name": "miner",
-            "type": "kernel"
-        },
-        {
-            "name": "evidential",
-            "type": "kernel"
-        },
-        {
-            "name": "uniformitarianism",
-            "type": "kernel"
-        },
-        {
-            "name": "earnest",
-            "type": "kernel"
-        },
-        {
-            "name": "marc",
-            "type": "kernel"
-        },
-        {
-            "name": "dubbin",
-            "type": "kernel"
-        },
-        {
-            "name": "ft",
-            "type": "kernel"
-        },
-        {
-            "name": "habitual",
-            "type": "kernel"
-        },
-        {
-            "name": "cohort",
-            "type": "kernel"
-        },
-        {
-            "name": "menorrhagia",
-            "type": "kernel"
-        },
-        {
-            "name": "slipperiness",
-            "type": "kernel"
-        },
-        {
-            "name": "cigar",
-            "type": "kernel"
-        },
-        {
-            "name": "factory",
-            "type": "kernel"
-        },
-        {
-            "name": "cacao",
-            "type": "kernel"
-        },
-        {
-            "name": "teleprinter",
-            "type": "kernel"
-        },
-        {
-            "name": "rectangular",
-            "type": "kernel"
-        },
-        {
-            "name": "delightfully",
-            "type": "kernel"
-        },
-        {
-            "name": "source",
-            "type": "kernel"
-        },
-        {
-            "name": "aphonia",
-            "type": "kernel"
-        },
-        {
-            "name": "depth",
-            "type": "kernel"
-        },
-        {
-            "name": "trochanter",
-            "type": "kernel"
-        },
-        {
-            "name": "whist",
-            "type": "kernel"
-        },
-        {
-            "name": "phraseology",
-            "type": "kernel"
-        },
-        {
-            "name": "unsuspecting",
-            "type": "kernel"
-        },
-        {
-            "name": "bib",
-            "type": "kernel"
-        },
-        {
-            "name": "propraetorial",
-            "type": "kernel"
-        },
-        {
-            "name": "sexton",
-            "type": "kernel"
-        },
-        {
-            "name": "respell",
-            "type": "kernel"
-        },
-        {
-            "name": "array",
-            "type": "kernel"
-        },
-        {
-            "name": "disconsonant",
-            "type": "kernel"
-        },
-        {
-            "name": "barm",
-            "type": "kernel"
-        },
-        {
-            "name": "scientist",
-            "type": "kernel"
-        },
-        {
-            "name": "beautiful",
-            "type": "kernel"
-        },
-        {
-            "name": "polyschematic",
-            "type": "kernel"
-        },
-        {
-            "name": "statics",
-            "type": "kernel"
-        },
-        {
-            "name": "applicable",
-            "type": "kernel"
-        },
-        {
-            "name": "subdued",
-            "type": "kernel"
-        },
-        {
-            "name": "underling",
-            "type": "kernel"
-        },
-        {
-            "name": "pus",
-            "type": "kernel"
-        },
-        {
-            "name": "mugging",
-            "type": "kernel"
-        },
-        {
-            "name": "toadflax",
-            "type": "kernel"
-        },
-        {
-            "name": "teal",
-            "type": "kernel"
-        },
-        {
-            "name": "maximum",
-            "type": "kernel"
-        },
-        {
-            "name": "espionage",
-            "type": "kernel"
-        },
-        {
-            "name": "microbe",
-            "type": "kernel"
-        },
-        {
-            "name": "osteoblast",
-            "type": "kernel"
-        },
-        {
-            "name": "blackbuck",
-            "type": "kernel"
-        },
-        {
-            "name": "saponin",
-            "type": "kernel"
-        },
-        {
-            "name": "personate",
-            "type": "kernel"
-        },
-        {
-            "name": "ogle",
-            "type": "kernel"
-        },
-        {
-            "name": "clearly",
-            "type": "kernel"
-        },
-        {
-            "name": "proteinuria",
-            "type": "kernel"
-        },
-        {
-            "name": "sturgeon",
-            "type": "kernel"
-        },
-        {
-            "name": "methionine",
-            "type": "kernel"
-        },
-        {
-            "name": "quorum",
-            "type": "kernel"
-        },
-        {
-            "name": "prismatoid",
-            "type": "kernel"
-        },
-        {
-            "name": "hypotension",
-            "type": "kernel"
-        },
-        {
-            "name": "supplicate",
-            "type": "kernel"
-        },
-        {
-            "name": "pterygium",
-            "type": "kernel"
-        },
-        {
-            "name": "receptionist",
-            "type": "kernel"
-        },
-        {
-            "name": "subacute",
-            "type": "kernel"
-        },
-        {
-            "name": "canal",
-            "type": "kernel"
-        },
-        {
-            "name": "cheering",
-            "type": "kernel"
-        },
-        {
-            "name": "urinary",
-            "type": "kernel"
-        },
-        {
-            "name": "tip",
-            "type": "kernel"
-        },
-        {
-            "name": "titanic",
-            "type": "kernel"
-        },
-        {
-            "name": "joinder",
-            "type": "kernel"
-        },
-        {
-            "name": "pectinase",
-            "type": "kernel"
-        },
-        {
-            "name": "plunging",
-            "type": "kernel"
-        },
-        {
-            "name": "pelt",
-            "type": "kernel"
-        },
-        {
-            "name": "dimension",
-            "type": "kernel"
-        },
-        {
-            "name": "devise",
-            "type": "kernel"
-        },
-        {
-            "name": "giant",
-            "type": "kernel"
-        },
-        {
-            "name": "number",
-            "type": "kernel"
-        },
-        {
-            "name": "subfeudatory",
-            "type": "kernel"
-        },
-        {
-            "name": "prehnite",
-            "type": "kernel"
-        },
-        {
-            "name": "overfamiliar",
-            "type": "kernel"
-        },
-        {
-            "name": "naval",
-            "type": "kernel"
-        },
-        {
-            "name": "forwarder",
-            "type": "kernel"
-        },
-        {
-            "name": "sling",
-            "type": "kernel"
-        },
-        {
-            "name": "primate",
-            "type": "kernel"
-        },
-        {
-            "name": "stress",
-            "type": "kernel"
-        },
-        {
-            "name": "consult",
-            "type": "kernel"
-        },
-        {
-            "name": "willing",
-            "type": "kernel"
-        },
-        {
-            "name": "cyanamide",
-            "type": "kernel"
-        },
-        {
-            "name": "alpine",
-            "type": "kernel"
-        },
-        {
-            "name": "admonish",
-            "type": "kernel"
-        },
-        {
-            "name": "musician",
-            "type": "kernel"
-        },
-        {
-            "name": "magnetometer",
-            "type": "kernel"
-        },
-        {
-            "name": "frothy",
-            "type": "kernel"
-        },
-        {
-            "name": "mushroom",
-            "type": "kernel"
-        },
-        {
-            "name": "ring",
-            "type": "kernel"
-        },
-        {
-            "name": "retirement",
-            "type": "kernel"
-        },
-        {
-            "name": "kyphosis",
-            "type": "kernel"
-        },
-        {
-            "name": "belay",
-            "type": "kernel"
-        },
-        {
-            "name": "tragedize",
-            "type": "kernel"
-        },
-        {
-            "name": "roband",
-            "type": "kernel"
+            "name": "bibliography",
+            "type": 1
         },
         {
             "name": "protopectin",
-            "type": "kernel"
+            "type": 1
         },
         {
-            "name": "prophyll",
-            "type": "kernel"
+            "name": "ferrimagnetic",
+            "type": 1
         },
         {
-            "name": "anticonvulsant",
-            "type": "kernel"
+            "name": "pragmatically",
+            "type": 1
         },
         {
-            "name": "cruciferous",
-            "type": "kernel"
+            "name": "dot",
+            "type": 1
         },
         {
-            "name": "vanquish",
-            "type": "kernel"
+            "name": "occupation",
+            "type": 1
         },
         {
-            "name": "suberose",
-            "type": "kernel"
+            "name": "mixture",
+            "type": 1
         },
         {
-            "name": "reflex",
-            "type": "kernel"
+            "name": "scrollwork",
+            "type": 1
         },
         {
-            "name": "monophyletic",
-            "type": "kernel"
+            "name": "nag",
+            "type": 1
         },
         {
-            "name": "suspend",
-            "type": "kernel"
+            "name": "eau",
+            "type": 1
         },
         {
-            "name": "coral",
-            "type": "kernel"
+            "name": "grief",
+            "type": 1
         },
         {
-            "name": "defender",
-            "type": "kernel"
+            "name": "rather",
+            "type": 1
         },
         {
-            "name": "unmoneyed",
-            "type": "kernel"
+            "name": "quantitative",
+            "type": 1
         },
         {
-            "name": "seasoned",
-            "type": "kernel"
+            "name": "ground",
+            "type": 1
         },
         {
-            "name": "laziness",
-            "type": "kernel"
+            "name": "character",
+            "type": 1
         },
         {
-            "name": "industrial",
-            "type": "kernel"
+            "name": "chandler",
+            "type": 1
         },
         {
-            "name": "strait",
-            "type": "kernel"
+            "name": "parachute",
+            "type": 1
         },
         {
-            "name": "never",
-            "type": "kernel"
+            "name": "km",
+            "type": 1
         },
         {
-            "name": "orbiter",
-            "type": "kernel"
+            "name": "selfhood",
+            "type": 1
         },
         {
-            "name": "ineffectual",
-            "type": "kernel"
+            "name": "bookkeeping",
+            "type": 1
         },
         {
-            "name": "myxococcus",
-            "type": "kernel"
+            "name": "anticholinergic",
+            "type": 1
         },
         {
-            "name": "wager",
-            "type": "kernel"
+            "name": "confusion",
+            "type": 1
         },
         {
-            "name": "hook",
-            "type": "kernel"
+            "name": "conveyance",
+            "type": 1
         },
         {
-            "name": "mannitol",
-            "type": "kernel"
+            "name": "country",
+            "type": 1
         },
         {
-            "name": "fossilized",
-            "type": "kernel"
+            "name": "involute",
+            "type": 1
         },
         {
-            "name": "badge",
-            "type": "kernel"
+            "name": "sell",
+            "type": 1
         },
         {
-            "name": "hypodermic",
-            "type": "kernel"
+            "name": "diploid",
+            "type": 1
         },
         {
-            "name": "agalactic",
-            "type": "kernel"
+            "name": "triad",
+            "type": 1
         },
         {
-            "name": "canine",
-            "type": "kernel"
+            "name": "strongly",
+            "type": 1
         },
         {
-            "name": "porge",
-            "type": "kernel"
+            "name": "wheelchair",
+            "type": 1
         },
         {
-            "name": "pize",
-            "type": "kernel"
+            "name": "spontaneous",
+            "type": 1
         },
         {
-            "name": "splice",
-            "type": "kernel"
+            "name": "terracing",
+            "type": 1
         },
         {
-            "name": "breathy",
-            "type": "kernel"
+            "name": "aeroplane",
+            "type": 1
         },
         {
-            "name": "lithe",
-            "type": "kernel"
+            "name": "manoeuvre",
+            "type": 1
         },
         {
-            "name": "edging",
-            "type": "kernel"
+            "name": "raise",
+            "type": 1
         },
         {
-            "name": "mantelshelf",
-            "type": "kernel"
+            "name": "mortar",
+            "type": 1
         },
         {
-            "name": "woeful",
-            "type": "kernel"
+            "name": "canal",
+            "type": 1
         },
         {
-            "name": "nonchaotic",
-            "type": "kernel"
+            "name": "odometer",
+            "type": 1
         },
         {
-            "name": "homogamy",
-            "type": "kernel"
+            "name": "adenosine",
+            "type": 1
         },
         {
-            "name": "myth",
-            "type": "kernel"
+            "name": "optometry",
+            "type": 1
         },
         {
-            "name": "coke",
-            "type": "kernel"
+            "name": "involved",
+            "type": 1
         },
         {
-            "name": "anxiety",
-            "type": "kernel"
+            "name": "burnt",
+            "type": 2
         },
         {
-            "name": "mammalian",
-            "type": "kernel"
-        },
-        {
-            "name": "orthostichy",
-            "type": "kernel"
-        },
-        {
-            "name": "objectively",
-            "type": "kernel"
-        },
-        {
-            "name": "metastable",
-            "type": "kernel"
-        },
-        {
-            "name": "lack",
-            "type": "kernel"
-        },
-        {
-            "name": "palaeoclimatological",
-            "type": "kernel"
-        },
-        {
-            "name": "recarry",
-            "type": "kernel"
-        },
-        {
-            "name": "judaica",
-            "type": "kernel"
-        },
-        {
-            "name": "mikado",
-            "type": "kernel"
-        },
-        {
-            "name": "nephralgia",
-            "type": "kernel"
-        },
-        {
-            "name": "bike",
-            "type": "kernel"
-        },
-        {
-            "name": "affronter",
-            "type": "kernel"
-        },
-        {
-            "name": "pamprodactylous",
-            "type": "kernel"
-        },
-        {
-            "name": "peculiar",
-            "type": "kernel"
-        },
-        {
-            "name": "shrewd",
-            "type": "kernel"
-        },
-        {
-            "name": "sarcodina",
-            "type": "kernel"
-        },
-        {
-            "name": "doer",
-            "type": "kernel"
-        },
-        {
-            "name": "chest",
-            "type": "kernel"
-        },
-        {
-            "name": "housel",
-            "type": "kernel"
-        },
-        {
-            "name": "pluteus",
-            "type": "kernel"
-        },
-        {
-            "name": "management",
-            "type": "kernel"
-        },
-        {
-            "name": "diabase",
-            "type": "kernel"
-        },
-        {
-            "name": "technological",
-            "type": "kernel"
-        },
-        {
-            "name": "foodstuff",
-            "type": "kernel"
-        },
-        {
-            "name": "sauerkraut",
-            "type": "kernel"
-        },
-        {
-            "name": "pullover",
-            "type": "kernel"
-        },
-        {
-            "name": "slap",
-            "type": "kernel"
-        },
-        {
-            "name": "bevel",
-            "type": "kernel"
-        },
-        {
-            "name": "fond",
-            "type": "kernel"
-        },
-        {
-            "name": "quadrupole",
-            "type": "kernel"
-        },
-        {
-            "name": "repeal",
-            "type": "kernel"
-        },
-        {
-            "name": "done",
-            "type": "kernel"
-        },
-        {
-            "name": "propylene",
-            "type": "kernel"
-        },
-        {
-            "name": "vigilant",
-            "type": "kernel"
-        },
-        {
-            "name": "entourage",
-            "type": "kernel"
-        },
-        {
-            "name": "tattered",
-            "type": "kernel"
-        },
-        {
-            "name": "longship",
-            "type": "kernel"
-        },
-        {
-            "name": "finger",
-            "type": "kernel"
-        },
-        {
-            "name": "orthochromatic",
-            "type": "kernel"
-        },
-        {
-            "name": "emigrant",
-            "type": "kernel"
-        },
-        {
-            "name": "lengthwise",
-            "type": "kernel"
-        },
-        {
-            "name": "profession",
-            "type": "kernel"
-        },
-        {
-            "name": "shortage",
-            "type": "kernel"
-        },
-        {
-            "name": "fructification",
-            "type": "kernel"
-        },
-        {
-            "name": "telecommunication",
-            "type": "kernel"
-        },
-        {
-            "name": "women",
-            "type": "kernel"
-        },
-        {
-            "name": "comforting",
-            "type": "kernel"
-        },
-        {
-            "name": "glycol",
-            "type": "kernel"
-        },
-        {
-            "name": "bastion",
-            "type": "kernel"
-        },
-        {
-            "name": "niche",
-            "type": "kernel"
-        },
-        {
-            "name": "neigh",
-            "type": "kernel"
-        },
-        {
-            "name": "indeterminate",
-            "type": "kernel"
-        },
-        {
-            "name": "shade",
-            "type": "kernel"
-        },
-        {
-            "name": "euglena",
-            "type": "kernel"
-        },
-        {
-            "name": "rhizome",
-            "type": "kernel"
-        },
-        {
-            "name": "savage",
-            "type": "kernel"
-        },
-        {
-            "name": "abaxial",
-            "type": "kernel"
-        },
-        {
-            "name": "flannelette",
-            "type": "kernel"
-        },
-        {
-            "name": "pharmacodynamics",
-            "type": "kernel"
-        },
-        {
-            "name": "subserosa",
-            "type": "kernel"
-        },
-        {
-            "name": "sycophantic",
-            "type": "kernel"
-        },
-        {
-            "name": "motorist",
-            "type": "kernel"
-        },
-        {
-            "name": "contradiction",
-            "type": "kernel"
-        },
-        {
-            "name": "agility",
-            "type": "kernel"
-        },
-        {
-            "name": "trivial",
-            "type": "kernel"
-        },
-        {
-            "name": "monopoly",
-            "type": "kernel"
-        },
-        {
-            "name": "multilaminated",
-            "type": "kernel"
-        },
-        {
-            "name": "humid",
-            "type": "kernel"
-        },
-        {
-            "name": "mantua",
-            "type": "kernel"
-        },
-        {
-            "name": "request",
-            "type": "kernel"
-        },
-        {
-            "name": "vaginal",
-            "type": "kernel"
-        },
-        {
-            "name": "hairline",
-            "type": "kernel"
-        },
-        {
-            "name": "communicable",
-            "type": "kernel"
-        },
-        {
-            "name": "embolus",
-            "type": "kernel"
-        },
-        {
-            "name": "snugly",
-            "type": "kernel"
-        },
-        {
-            "name": "stead",
-            "type": "kernel"
-        },
-        {
-            "name": "quintuple",
-            "type": "kernel"
-        },
-        {
-            "name": "subtraction",
-            "type": "kernel"
-        },
-        {
-            "name": "removable",
-            "type": "kernel"
-        },
-        {
-            "name": "mutagenesis",
-            "type": "kernel"
-        },
-        {
-            "name": "stroke",
-            "type": "kernel"
-        },
-        {
-            "name": "nagana",
-            "type": "kernel"
-        },
-        {
-            "name": "supernumerary",
-            "type": "kernel"
-        },
-        {
-            "name": "supporter",
-            "type": "kernel"
-        },
-        {
-            "name": "wavering",
-            "type": "kernel"
-        },
-        {
-            "name": "privileged",
-            "type": "kernel"
-        },
-        {
-            "name": "excrement",
-            "type": "kernel"
-        },
-        {
-            "name": "legume",
-            "type": "kernel"
-        },
-        {
-            "name": "fission",
-            "type": "kernel"
-        },
-        {
-            "name": "suds",
-            "type": "kernel"
-        },
-        {
-            "name": "synopsis",
-            "type": "kernel"
-        },
-        {
-            "name": "fantastic",
-            "type": "kernel"
-        },
-        {
-            "name": "disjunctive",
-            "type": "kernel"
-        },
-        {
-            "name": "variolous",
-            "type": "kernel"
-        },
-        {
-            "name": "pane",
-            "type": "kernel"
-        },
-        {
-            "name": "nucleotide",
-            "type": "kernel"
-        },
-        {
-            "name": "resonant",
-            "type": "kernel"
-        },
-        {
-            "name": "sawn",
-            "type": "kernel"
-        },
-        {
-            "name": "phosphonate",
-            "type": "kernel"
-        },
-        {
-            "name": "trephine",
-            "type": "kernel"
-        },
-        {
-            "name": "nannandrous",
-            "type": "kernel"
-        },
-        {
-            "name": "axon",
-            "type": "core"
-        },
-        {
-            "name": "dendrite",
-            "type": "core"
-        },
-        {
-            "name": "soil",
-            "type": "core"
-        },
-        {
-            "name": "earth",
-            "type": "core"
+            "name": "participle",
+            "type": 2
         }
     ],
     "links": [
         {
-            "source": "other",
-            "target": "embolus"
+            "source": "mica",
+            "target": "chloritoid"
         },
         {
-            "source": "other",
-            "target": "uraemia"
+            "source": "trade",
+            "target": "tradeswoman"
         },
         {
-            "source": "other",
-            "target": "stationer"
+            "source": "trade",
+            "target": "slack"
         },
         {
-            "source": "other",
-            "target": "long"
+            "source": "whip",
+            "target": "whipped"
         },
         {
-            "source": "other",
-            "target": "extort"
+            "source": "hydrolysis",
+            "target": "nucleotidase"
         },
         {
-            "source": "other",
-            "target": "axon"
+            "source": "mixture",
+            "target": "spritzer"
         },
         {
-            "source": "other",
-            "target": "vegetarian"
+            "source": "collective",
+            "target": "dene"
         },
         {
-            "source": "other",
-            "target": "tiered"
+            "source": "exercise",
+            "target": "manoeuvre"
         },
         {
-            "source": "other",
-            "target": "marc"
+            "source": "spontaneous",
+            "target": "afterburning"
         },
         {
-            "source": "other",
-            "target": "swage"
+            "source": "still",
+            "target": "sarum"
         },
         {
-            "source": "other",
-            "target": "number"
+            "source": "still",
+            "target": "layering"
         },
         {
-            "source": "other",
-            "target": "simulator"
+            "source": "diploid",
+            "target": "zygote"
         },
         {
-            "source": "other",
-            "target": "anticonvulsant"
+            "source": "country",
+            "target": "settler"
         },
         {
-            "source": "other",
-            "target": "subliterature"
+            "source": "country",
+            "target": "internation"
         },
         {
-            "source": "other",
-            "target": "incorporation"
+            "source": "country",
+            "target": "wali"
         },
         {
-            "source": "other",
-            "target": "longship"
-        },
-        {
-            "source": "other",
-            "target": "fundraising"
-        },
-        {
-            "source": "other",
-            "target": "waveguide"
-        },
-        {
-            "source": "other",
-            "target": "perigynous"
-        },
-        {
-            "source": "other",
-            "target": "multipartisan"
-        },
-        {
-            "source": "other",
-            "target": "unaddressed"
-        },
-        {
-            "source": "other",
-            "target": "confit"
-        },
-        {
-            "source": "other",
-            "target": "khan"
-        },
-        {
-            "source": "other",
-            "target": "rhodophane"
-        },
-        {
-            "source": "other",
-            "target": "brachistochrone"
-        },
-        {
-            "source": "other",
-            "target": "hook"
-        },
-        {
-            "source": "other",
-            "target": "monophyletic"
-        },
-        {
-            "source": "other",
-            "target": "unscrew"
-        },
-        {
-            "source": "other",
-            "target": "barter"
-        },
-        {
-            "source": "other",
-            "target": "dendrite"
-        },
-        {
-            "source": "other",
-            "target": "resonant"
-        },
-        {
-            "source": "other",
-            "target": "sortilege"
-        },
-        {
-            "source": "other",
-            "target": "niche"
-        },
-        {
-            "source": "other",
-            "target": "sling"
-        },
-        {
-            "source": "other",
-            "target": "strait"
-        },
-        {
-            "source": "other",
-            "target": "belay"
-        },
-        {
-            "source": "other",
-            "target": "armour"
-        },
-        {
-            "source": "other",
-            "target": "peninsularity"
-        },
-        {
-            "source": "other",
-            "target": "untrussed"
-        },
-        {
-            "source": "other",
-            "target": "nagana"
-        },
-        {
-            "source": "other",
-            "target": "uniatism"
-        },
-        {
-            "source": "other",
-            "target": "preprogram"
-        },
-        {
-            "source": "other",
-            "target": "swarf"
-        },
-        {
-            "source": "other",
-            "target": "unbox"
-        },
-        {
-            "source": "other",
-            "target": "supporter"
-        },
-        {
-            "source": "other",
-            "target": "tacky"
-        },
-        {
-            "source": "other",
-            "target": "crossover"
-        },
-        {
-            "source": "long",
-            "target": "axon"
-        },
-        {
-            "source": "long",
-            "target": "ida"
-        },
-        {
-            "source": "long",
-            "target": "filoplume"
-        },
-        {
-            "source": "long",
+            "source": "country",
             "target": "vienna"
         },
         {
-            "source": "long",
-            "target": "grayling"
+            "source": "cask",
+            "target": "kilderkin"
         },
         {
-            "source": "long",
-            "target": "longship"
+            "source": "character",
+            "target": "dailiness"
         },
         {
-            "source": "long",
-            "target": "miner"
+            "source": "character",
+            "target": "medievalize"
         },
         {
-            "source": "corner",
-            "target": "gnomon"
+            "source": "character",
+            "target": "ionism"
         },
         {
-            "source": "corner",
-            "target": "niche"
+            "source": "character",
+            "target": "characterization"
         },
         {
-            "source": "axon",
-            "target": "dendrite"
+            "source": "character",
+            "target": "genius"
         },
         {
-            "source": "soil",
-            "target": "nematoda"
+            "source": "carbon",
+            "target": "tertiary"
         },
         {
-            "source": "soil",
-            "target": "pedology"
+            "source": "someone",
+            "target": "conveyance"
         },
         {
-            "source": "soil",
-            "target": "earth"
+            "source": "someone",
+            "target": "knock"
         },
         {
-            "source": "soil",
-            "target": "unplant"
+            "source": "someone",
+            "target": "mimicry"
         },
         {
-            "source": "vegetarian",
-            "target": "ital"
+            "source": "someone",
+            "target": "muzzler"
         },
         {
-            "source": "anxiety",
-            "target": "niggling"
+            "source": "someone",
+            "target": "reception"
         },
         {
-            "source": "ring",
-            "target": "corner"
+            "source": "someone",
+            "target": "scurrilous"
         },
         {
-            "source": "writing",
-            "target": "stationer"
+            "source": "someone",
+            "target": "carry"
         },
         {
-            "source": "writing",
-            "target": "historiography"
+            "source": "someone",
+            "target": "nag"
         },
         {
-            "source": "privileged",
-            "target": "porphyrogenite"
+            "source": "someone",
+            "target": "distrust"
         },
         {
-            "source": "profession",
-            "target": "musician"
+            "source": "someone",
+            "target": "raise"
         },
         {
-            "source": "array",
-            "target": "gps"
+            "source": "someone",
+            "target": "disillusioned"
         },
         {
-            "source": "tribe",
-            "target": "judah"
+            "source": "someone",
+            "target": "ruse"
         },
         {
-            "source": "number",
-            "target": "whist"
+            "source": "someone",
+            "target": "sell"
         },
         {
-            "source": "number",
-            "target": "ring"
+            "source": "someone",
+            "target": "characterization"
         },
         {
-            "source": "number",
-            "target": "evaluate"
+            "source": "someone",
+            "target": "persecute"
         },
         {
-            "source": "number",
-            "target": "second"
+            "source": "someone",
+            "target": "juke"
         },
         {
-            "source": "number",
-            "target": "panoan"
+            "source": "someone",
+            "target": "quizzer"
         },
         {
-            "source": "number",
-            "target": "microculture"
+            "source": "someone",
+            "target": "assure"
         },
         {
-            "source": "number",
-            "target": "quorum"
+            "source": "strongly",
+            "target": "euchromatic"
         },
         {
-            "source": "number",
-            "target": "trochanter"
+            "source": "unable",
+            "target": "gammy"
         },
         {
-            "source": "number",
-            "target": "supernumerary"
+            "source": "unable",
+            "target": "wheelchair"
         },
         {
-            "source": "number",
-            "target": "digit"
+            "source": "these",
+            "target": "rationalize"
         },
         {
-            "source": "number",
-            "target": "subtraction"
+            "source": "these",
+            "target": "pell"
         },
         {
-            "source": "number",
+            "source": "these",
+            "target": "ferrimagnetic"
+        },
+        {
+            "source": "these",
+            "target": "suburbicarian"
+        },
+        {
+            "source": "learning",
+            "target": "studium"
+        },
+        {
+            "source": "learning",
+            "target": "empirism"
+        },
+        {
+            "source": "learning",
+            "target": "philomath"
+        },
+        {
+            "source": "learning",
+            "target": "bookcraft"
+        },
+        {
+            "source": "shrub",
+            "target": "paliurus"
+        },
+        {
+            "source": "shrub",
+            "target": "dieback"
+        },
+        {
+            "source": "shrub",
+            "target": "karo"
+        },
+        {
+            "source": "intense",
+            "target": "flashover"
+        },
+        {
+            "source": "intense",
+            "target": "grief"
+        },
+        {
+            "source": "unclear",
+            "target": "confusion"
+        },
+        {
+            "source": "as",
+            "target": "mica"
+        },
+        {
+            "source": "as",
+            "target": "animalculism"
+        },
+        {
+            "source": "as",
+            "target": "tenotomy"
+        },
+        {
+            "source": "as",
+            "target": "conservatory"
+        },
+        {
+            "source": "as",
+            "target": "sarum"
+        },
+        {
+            "source": "as",
+            "target": "matildite"
+        },
+        {
+            "source": "as",
+            "target": "paralysis"
+        },
+        {
+            "source": "as",
+            "target": "masculinism"
+        },
+        {
+            "source": "as",
+            "target": "junky"
+        },
+        {
+            "source": "as",
+            "target": "internation"
+        },
+        {
+            "source": "as",
+            "target": "phonematic"
+        },
+        {
+            "source": "as",
+            "target": "whip"
+        },
+        {
+            "source": "as",
+            "target": "institutionalized"
+        },
+        {
+            "source": "as",
+            "target": "animato"
+        },
+        {
+            "source": "as",
+            "target": "distinguishable"
+        },
+        {
+            "source": "as",
+            "target": "collective"
+        },
+        {
+            "source": "as",
+            "target": "spontaneous"
+        },
+        {
+            "source": "as",
+            "target": "diseconomy"
+        },
+        {
+            "source": "as",
+            "target": "stet"
+        },
+        {
+            "source": "as",
+            "target": "praisably"
+        },
+        {
+            "source": "as",
+            "target": "protopectin"
+        },
+        {
+            "source": "as",
+            "target": "nana"
+        },
+        {
+            "source": "as",
+            "target": "parachute"
+        },
+        {
+            "source": "as",
+            "target": "acrolein"
+        },
+        {
+            "source": "as",
+            "target": "waterfowl"
+        },
+        {
+            "source": "as",
+            "target": "unresembling"
+        },
+        {
+            "source": "as",
+            "target": "tinder"
+        },
+        {
+            "source": "as",
+            "target": "environmentalism"
+        },
+        {
+            "source": "as",
+            "target": "metabisulphite"
+        },
+        {
+            "source": "as",
+            "target": "rockwork"
+        },
+        {
+            "source": "as",
+            "target": "waving"
+        },
+        {
+            "source": "as",
+            "target": "adenosine"
+        },
+        {
+            "source": "as",
+            "target": "carry"
+        },
+        {
+            "source": "as",
+            "target": "marbling"
+        },
+        {
+            "source": "as",
+            "target": "zymotic"
+        },
+        {
+            "source": "as",
+            "target": "bibliography"
+        },
+        {
+            "source": "as",
+            "target": "concertist"
+        },
+        {
+            "source": "as",
+            "target": "unrecognized"
+        },
+        {
+            "source": "as",
+            "target": "ghent"
+        },
+        {
+            "source": "as",
+            "target": "pensionary"
+        },
+        {
+            "source": "as",
+            "target": "cully"
+        },
+        {
+            "source": "as",
+            "target": "apart"
+        },
+        {
+            "source": "as",
+            "target": "unrich"
+        },
+        {
+            "source": "as",
+            "target": "serum"
+        },
+        {
+            "source": "as",
+            "target": "flowstone"
+        },
+        {
+            "source": "as",
             "target": "canal"
         },
         {
-            "source": "number",
-            "target": "bluebill"
+            "source": "as",
+            "target": "modius"
         },
         {
-            "source": "number",
-            "target": "confederation"
+            "source": "as",
+            "target": "montanite"
         },
         {
-            "source": "ineffectual",
-            "target": "pluries"
+            "source": "as",
+            "target": "stipulated"
         },
         {
-            "source": "stage",
-            "target": "prelinguistic"
+            "source": "as",
+            "target": "participle"
         },
         {
-            "source": "primate",
-            "target": "quadrumane"
+            "source": "as",
+            "target": "ottrelite"
         },
         {
-            "source": "primate",
-            "target": "potto"
+            "source": "as",
+            "target": "anticholinergic"
         },
         {
-            "source": "heredity",
-            "target": "hereditation"
+            "source": "as",
+            "target": "orientite"
         },
         {
-            "source": "second",
-            "target": "cliented"
+            "source": "as",
+            "target": "scrollwork"
         },
         {
-            "source": "second",
-            "target": "ring"
+            "source": "as",
+            "target": "adjectively"
         },
         {
-            "source": "second",
-            "target": "poncelet"
+            "source": "as",
+            "target": "nitromethane"
         },
         {
-            "source": "second",
-            "target": "rearrival"
+            "source": "as",
+            "target": "adelantado"
         },
         {
-            "source": "second",
-            "target": "baseman"
+            "source": "as",
+            "target": "vehicle"
         },
         {
-            "source": "second",
-            "target": "trochanter"
+            "source": "as",
+            "target": "chandler"
         },
         {
-            "source": "source",
-            "target": "reflex"
+            "source": "as",
+            "target": "balti"
         },
         {
-            "source": "source",
-            "target": "scissorer"
+            "source": "as",
+            "target": "albumenize"
         },
         {
-            "source": "clearly",
-            "target": "addle"
+            "source": "as",
+            "target": "disputable"
         },
         {
-            "source": "retinoscopy",
-            "target": "retinoscopic"
+            "source": "as",
+            "target": "postuterine"
         },
         {
-            "source": "defender",
-            "target": "corner"
+            "source": "as",
+            "target": "triploblastic"
         },
         {
-            "source": "beautiful",
-            "target": "pygmalion"
+            "source": "as",
+            "target": "stinger"
         },
         {
-            "source": "beautiful",
-            "target": "array"
+            "source": "as",
+            "target": "faggot"
         },
         {
-            "source": "earth",
-            "target": "soil"
+            "source": "as",
+            "target": "unbelievable"
         },
         {
-            "source": "earth",
-            "target": "pangaea"
+            "source": "as",
+            "target": "percentaged"
         },
         {
-            "source": "predict",
-            "target": "miscall"
+            "source": "as",
+            "target": "suburbicarian"
         },
         {
-            "source": "predict",
-            "target": "physiognomist"
+            "source": "as",
+            "target": "objet"
         },
         {
-            "source": "dendrite",
-            "target": "axon"
+            "source": "as",
+            "target": "recreationist"
         },
         {
-            "source": "stress",
-            "target": "overstress"
+            "source": "as",
+            "target": "dot"
         },
         {
-            "source": "exclamatory",
-            "target": "pize"
+            "source": "as",
+            "target": "algol"
         },
         {
-            "source": "niche",
-            "target": "fenestella"
+            "source": "as",
+            "target": "rutin"
         },
         {
-            "source": "ft",
-            "target": "ida"
+            "source": "as",
+            "target": "paragram"
         },
         {
-            "source": "finger",
-            "target": "ring"
+            "source": "as",
+            "target": "shillelagh"
         },
         {
-            "source": "finger",
-            "target": "digit"
+            "source": "as",
+            "target": "quadratically"
         },
         {
-            "source": "cannabis",
-            "target": "dagga"
+            "source": "as",
+            "target": "pise"
         },
         {
-            "source": "urinary",
-            "target": "cystoscope"
+            "source": "as",
+            "target": "squashed"
         },
         {
-            "source": "floor",
-            "target": "haugh"
+            "source": "as",
+            "target": "protozoan"
         },
         {
-            "source": "floor",
-            "target": "stage"
+            "source": "as",
+            "target": "pomander"
         },
         {
-            "source": "depth",
-            "target": "dimension"
+            "source": "as",
+            "target": "ground"
         },
         {
-            "source": "depth",
-            "target": "surfacy"
+            "source": "as",
+            "target": "nor"
         },
         {
-            "source": "sawn",
-            "target": "resaw"
+            "source": "as",
+            "target": "wheelchair"
         },
         {
-            "source": "condition",
-            "target": "nutriture"
+            "source": "as",
+            "target": "prohibitively"
         },
         {
-            "source": "condition",
-            "target": "recidive"
+            "source": "as",
+            "target": "genius"
         },
         {
-            "source": "condition",
-            "target": "spondylosis"
+            "source": "as",
+            "target": "berried"
         },
         {
-            "source": "condition",
-            "target": "boydom"
+            "source": "as",
+            "target": "plethysmograph"
         },
         {
-            "source": "condition",
-            "target": "subacute"
+            "source": "as",
+            "target": "mancando"
         },
         {
-            "source": "condition",
-            "target": "pterygium"
+            "source": "as",
+            "target": "subvene"
         },
         {
-            "source": "condition",
-            "target": "tattered"
+            "source": "as",
+            "target": "truncate"
         },
         {
-            "source": "done",
-            "target": "habitual"
+            "source": "canal",
+            "target": "headwork"
         },
         {
-            "source": "done",
-            "target": "sycophantic"
+            "source": "canal",
+            "target": "vaporetto"
         },
         {
-            "source": "done",
-            "target": "overdone"
+            "source": "burnt",
+            "target": "participle"
         },
         {
-            "source": "merit",
-            "target": "subliterature"
+            "source": "participle",
+            "target": "burnt"
         },
         {
-            "source": "supporter",
-            "target": "cohort"
+            "source": "participle",
+            "target": "untying"
         },
         {
-            "source": "stimulus",
-            "target": "reflex"
+            "source": "regard",
+            "target": "country"
         },
         {
-            "source": "stroke",
-            "target": "hook"
+            "source": "regard",
+            "target": "inconvenience"
         },
         {
-            "source": "lack",
-            "target": "impious"
+            "source": "regard",
+            "target": "unconscienced"
         },
         {
-            "source": "originally",
-            "target": "boxty"
+            "source": "involved",
+            "target": "algesic"
         },
         {
-            "source": "originally",
-            "target": "friesian"
+            "source": "involved",
+            "target": "triad"
         },
         {
-            "source": "originally",
-            "target": "landrace"
+            "source": "involved",
+            "target": "complicity"
         },
         {
-            "source": "savage",
-            "target": "barbarize"
+            "source": "involved",
+            "target": "progressionary"
         },
         {
-            "source": "industrial",
-            "target": "seraing"
+            "source": "involved",
+            "target": "involute"
         },
         {
-            "source": "industrial",
-            "target": "saarbrucken"
+            "source": "involved",
+            "target": "expectorative"
         },
         {
-            "source": "tip",
-            "target": "filoplume"
+            "source": "vehicle",
+            "target": "monocoque"
         },
         {
-            "source": "women",
-            "target": "rokelay"
+            "source": "vehicle",
+            "target": "aeroplane"
+        },
+        {
+            "source": "vehicle",
+            "target": "gr"
+        },
+        {
+            "source": "vehicle",
+            "target": "eau"
+        },
+        {
+            "source": "vehicle",
+            "target": "odometer"
+        },
+        {
+            "source": "vehicle",
+            "target": "ungeared"
+        },
+        {
+            "source": "tungsten",
+            "target": "romanium"
+        },
+        {
+            "source": "buckwheat",
+            "target": "rutin"
+        },
+        {
+            "source": "rather",
+            "target": "quantitative"
+        },
+        {
+            "source": "rather",
+            "target": "pragmatically"
+        },
+        {
+            "source": "resort",
+            "target": "grockle"
+        },
+        {
+            "source": "occupation",
+            "target": "bookkeeping"
+        },
+        {
+            "source": "occupation",
+            "target": "optometry"
+        },
+        {
+            "source": "tectum",
+            "target": "subtectal"
+        },
+        {
+            "source": "individual",
+            "target": "rebus"
+        },
+        {
+            "source": "individual",
+            "target": "character"
+        },
+        {
+            "source": "individual",
+            "target": "vehicle"
+        },
+        {
+            "source": "individual",
+            "target": "selfhood"
+        },
+        {
+            "source": "ground",
+            "target": "statant"
+        },
+        {
+            "source": "ground",
+            "target": "souslik"
+        },
+        {
+            "source": "ground",
+            "target": "shrub"
+        },
+        {
+            "source": "ground",
+            "target": "mortar"
+        },
+        {
+            "source": "ground",
+            "target": "terracing"
+        },
+        {
+            "source": "ground",
+            "target": "ollie"
+        },
+        {
+            "source": "nor",
+            "target": "slack"
+        },
+        {
+            "source": "mystagogical",
+            "target": "mystagogic"
+        },
+        {
+            "source": "km",
+            "target": "amazon"
+        },
+        {
+            "source": "measured",
+            "target": "quantitative"
         }
     ]
 }

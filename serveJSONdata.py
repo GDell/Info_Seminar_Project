@@ -1,4 +1,5 @@
-from http.server import SimpleHTTPRequestHandler, HTTPServer
+from SimpleHTTPServer import SimpleHTTPRequestHandler
+import BaseHTTPServer
 
 class CORSRequestHandler (SimpleHTTPRequestHandler):
     def end_headers (self):
@@ -6,4 +7,4 @@ class CORSRequestHandler (SimpleHTTPRequestHandler):
         SimpleHTTPRequestHandler.end_headers(self)
 
 if __name__ == '__main__':
-    HTTPServer(CORSRequestHandler, HTTPServer)
+    BaseHTTPServer.test(CORSRequestHandler, BaseHTTPServer.HTTPServer)

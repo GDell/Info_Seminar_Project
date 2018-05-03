@@ -18,11 +18,11 @@ text {
 }
 
 </style>
-
 <svg width="3000" height="3000"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
 <script>
+
+
 
 
 var svg = d3.select("svg"),
@@ -36,12 +36,1609 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-	
-$.getJSON('/public/graph.JSON', function(obj){
-	root = JSON.parse(obj) 
+theOBJ = {
+    "nodes": [
+        {
+            "name": "quizzer",
+            "type": 0
+        },
+        {
+            "name": "internation",
+            "type": 0
+        },
+        {
+            "name": "pomander",
+            "type": 0
+        },
+        {
+            "name": "afterburning",
+            "type": 0
+        },
+        {
+            "name": "flowstone",
+            "type": 0
+        },
+        {
+            "name": "unconscienced",
+            "type": 0
+        },
+        {
+            "name": "faggot",
+            "type": 0
+        },
+        {
+            "name": "subtectal",
+            "type": 0
+        },
+        {
+            "name": "spritzer",
+            "type": 0
+        },
+        {
+            "name": "expectorative",
+            "type": 0
+        },
+        {
+            "name": "euchromatic",
+            "type": 0
+        },
+        {
+            "name": "stinger",
+            "type": 0
+        },
+        {
+            "name": "unresembling",
+            "type": 0
+        },
+        {
+            "name": "untying",
+            "type": 0
+        },
+        {
+            "name": "dieback",
+            "type": 0
+        },
+        {
+            "name": "algol",
+            "type": 0
+        },
+        {
+            "name": "gammy",
+            "type": 0
+        },
+        {
+            "name": "quadratically",
+            "type": 0
+        },
+        {
+            "name": "muzzler",
+            "type": 0
+        },
+        {
+            "name": "percentaged",
+            "type": 0
+        },
+        {
+            "name": "diseconomy",
+            "type": 0
+        },
+        {
+            "name": "dene",
+            "type": 0
+        },
+        {
+            "name": "nitromethane",
+            "type": 0
+        },
+        {
+            "name": "progressionary",
+            "type": 0
+        },
+        {
+            "name": "objet",
+            "type": 0
+        },
+        {
+            "name": "balti",
+            "type": 0
+        },
+        {
+            "name": "cully",
+            "type": 0
+        },
+        {
+            "name": "praisably",
+            "type": 0
+        },
+        {
+            "name": "prohibitively",
+            "type": 0
+        },
+        {
+            "name": "environmentalism",
+            "type": 0
+        },
+        {
+            "name": "monocoque",
+            "type": 0
+        },
+        {
+            "name": "paliurus",
+            "type": 0
+        },
+        {
+            "name": "rockwork",
+            "type": 0
+        },
+        {
+            "name": "postuterine",
+            "type": 0
+        },
+        {
+            "name": "karo",
+            "type": 0
+        },
+        {
+            "name": "shillelagh",
+            "type": 0
+        },
+        {
+            "name": "juke",
+            "type": 0
+        },
+        {
+            "name": "adelantado",
+            "type": 0
+        },
+        {
+            "name": "berried",
+            "type": 0
+        },
+        {
+            "name": "ottrelite",
+            "type": 0
+        },
+        {
+            "name": "wali",
+            "type": 0
+        },
+        {
+            "name": "pise",
+            "type": 0
+        },
+        {
+            "name": "junky",
+            "type": 0
+        },
+        {
+            "name": "sarum",
+            "type": 0
+        },
+        {
+            "name": "bookcraft",
+            "type": 0
+        },
+        {
+            "name": "disputable",
+            "type": 0
+        },
+        {
+            "name": "ungeared",
+            "type": 0
+        },
+        {
+            "name": "headwork",
+            "type": 0
+        },
+        {
+            "name": "chloritoid",
+            "type": 0
+        },
+        {
+            "name": "subvene",
+            "type": 0
+        },
+        {
+            "name": "nana",
+            "type": 0
+        },
+        {
+            "name": "mystagogic",
+            "type": 0
+        },
+        {
+            "name": "flashover",
+            "type": 0
+        },
+        {
+            "name": "masculinism",
+            "type": 0
+        },
+        {
+            "name": "vaporetto",
+            "type": 0
+        },
+        {
+            "name": "nucleotidase",
+            "type": 0
+        },
+        {
+            "name": "waving",
+            "type": 0
+        },
+        {
+            "name": "pell",
+            "type": 0
+        },
+        {
+            "name": "dailiness",
+            "type": 0
+        },
+        {
+            "name": "rebus",
+            "type": 0
+        },
+        {
+            "name": "stet",
+            "type": 0
+        },
+        {
+            "name": "tradeswoman",
+            "type": 0
+        },
+        {
+            "name": "gr",
+            "type": 0
+        },
+        {
+            "name": "ollie",
+            "type": 0
+        },
+        {
+            "name": "statant",
+            "type": 0
+        },
+        {
+            "name": "zymotic",
+            "type": 0
+        },
+        {
+            "name": "ionism",
+            "type": 0
+        },
+        {
+            "name": "metabisulphite",
+            "type": 0
+        },
+        {
+            "name": "ghent",
+            "type": 0
+        },
+        {
+            "name": "mancando",
+            "type": 0
+        },
+        {
+            "name": "adjectively",
+            "type": 0
+        },
+        {
+            "name": "romanium",
+            "type": 0
+        },
+        {
+            "name": "amazon",
+            "type": 0
+        },
+        {
+            "name": "squashed",
+            "type": 0
+        },
+        {
+            "name": "animato",
+            "type": 0
+        },
+        {
+            "name": "unrecognized",
+            "type": 0
+        },
+        {
+            "name": "montanite",
+            "type": 0
+        },
+        {
+            "name": "persecute",
+            "type": 0
+        },
+        {
+            "name": "souslik",
+            "type": 0
+        },
+        {
+            "name": "grockle",
+            "type": 0
+        },
+        {
+            "name": "paragram",
+            "type": 0
+        },
+        {
+            "name": "vienna",
+            "type": 0
+        },
+        {
+            "name": "medievalize",
+            "type": 0
+        },
+        {
+            "name": "kilderkin",
+            "type": 0
+        },
+        {
+            "name": "orientite",
+            "type": 0
+        },
+        {
+            "name": "concertist",
+            "type": 0
+        },
+        {
+            "name": "tenotomy",
+            "type": 0
+        },
+        {
+            "name": "recreationist",
+            "type": 0
+        },
+        {
+            "name": "matildite",
+            "type": 0
+        },
+        {
+            "name": "rutin",
+            "type": 0
+        },
+        {
+            "name": "marbling",
+            "type": 0
+        },
+        {
+            "name": "triploblastic",
+            "type": 0
+        },
+        {
+            "name": "pensionary",
+            "type": 0
+        },
+        {
+            "name": "mica",
+            "type": 1
+        },
+        {
+            "name": "serum",
+            "type": 1
+        },
+        {
+            "name": "knock",
+            "type": 1
+        },
+        {
+            "name": "carbon",
+            "type": 1
+        },
+        {
+            "name": "trade",
+            "type": 1
+        },
+        {
+            "name": "stipulated",
+            "type": 1
+        },
+        {
+            "name": "unclear",
+            "type": 1
+        },
+        {
+            "name": "unbelievable",
+            "type": 1
+        },
+        {
+            "name": "buckwheat",
+            "type": 1
+        },
+        {
+            "name": "settler",
+            "type": 1
+        },
+        {
+            "name": "conservatory",
+            "type": 1
+        },
+        {
+            "name": "shrub",
+            "type": 1
+        },
+        {
+            "name": "empirism",
+            "type": 1
+        },
+        {
+            "name": "nor",
+            "type": 1
+        },
+        {
+            "name": "exercise",
+            "type": 1
+        },
+        {
+            "name": "regard",
+            "type": 1
+        },
+        {
+            "name": "truncate",
+            "type": 1
+        },
+        {
+            "name": "unrich",
+            "type": 1
+        },
+        {
+            "name": "institutionalized",
+            "type": 1
+        },
+        {
+            "name": "distinguishable",
+            "type": 1
+        },
+        {
+            "name": "collective",
+            "type": 1
+        },
+        {
+            "name": "paralysis",
+            "type": 1
+        },
+        {
+            "name": "still",
+            "type": 1
+        },
+        {
+            "name": "rationalize",
+            "type": 1
+        },
+        {
+            "name": "distrust",
+            "type": 1
+        },
+        {
+            "name": "plethysmograph",
+            "type": 1
+        },
+        {
+            "name": "genius",
+            "type": 1
+        },
+        {
+            "name": "vehicle",
+            "type": 1
+        },
+        {
+            "name": "resort",
+            "type": 1
+        },
+        {
+            "name": "characterization",
+            "type": 1
+        },
+        {
+            "name": "mystagogical",
+            "type": 1
+        },
+        {
+            "name": "inconvenience",
+            "type": 1
+        },
+        {
+            "name": "animalculism",
+            "type": 1
+        },
+        {
+            "name": "scurrilous",
+            "type": 1
+        },
+        {
+            "name": "zygote",
+            "type": 1
+        },
+        {
+            "name": "waterfowl",
+            "type": 1
+        },
+        {
+            "name": "individual",
+            "type": 1
+        },
+        {
+            "name": "studium",
+            "type": 1
+        },
+        {
+            "name": "whipped",
+            "type": 1
+        },
+        {
+            "name": "suburbicarian",
+            "type": 1
+        },
+        {
+            "name": "whip",
+            "type": 1
+        },
+        {
+            "name": "measured",
+            "type": 1
+        },
+        {
+            "name": "tungsten",
+            "type": 1
+        },
+        {
+            "name": "tertiary",
+            "type": 1
+        },
+        {
+            "name": "tinder",
+            "type": 1
+        },
+        {
+            "name": "as",
+            "type": 1
+        },
+        {
+            "name": "mimicry",
+            "type": 1
+        },
+        {
+            "name": "tectum",
+            "type": 1
+        },
+        {
+            "name": "cask",
+            "type": 1
+        },
+        {
+            "name": "algesic",
+            "type": 1
+        },
+        {
+            "name": "modius",
+            "type": 1
+        },
+        {
+            "name": "layering",
+            "type": 1
+        },
+        {
+            "name": "complicity",
+            "type": 1
+        },
+        {
+            "name": "assure",
+            "type": 1
+        },
+        {
+            "name": "carry",
+            "type": 1
+        },
+        {
+            "name": "phonematic",
+            "type": 1
+        },
+        {
+            "name": "unable",
+            "type": 1
+        },
+        {
+            "name": "someone",
+            "type": 1
+        },
+        {
+            "name": "these",
+            "type": 1
+        },
+        {
+            "name": "apart",
+            "type": 1
+        },
+        {
+            "name": "philomath",
+            "type": 1
+        },
+        {
+            "name": "reception",
+            "type": 1
+        },
+        {
+            "name": "slack",
+            "type": 1
+        },
+        {
+            "name": "ruse",
+            "type": 1
+        },
+        {
+            "name": "acrolein",
+            "type": 1
+        },
+        {
+            "name": "hydrolysis",
+            "type": 1
+        },
+        {
+            "name": "protozoan",
+            "type": 1
+        },
+        {
+            "name": "disillusioned",
+            "type": 1
+        },
+        {
+            "name": "intense",
+            "type": 1
+        },
+        {
+            "name": "learning",
+            "type": 1
+        },
+        {
+            "name": "albumenize",
+            "type": 1
+        },
+        {
+            "name": "bibliography",
+            "type": 1
+        },
+        {
+            "name": "protopectin",
+            "type": 1
+        },
+        {
+            "name": "ferrimagnetic",
+            "type": 1
+        },
+        {
+            "name": "pragmatically",
+            "type": 1
+        },
+        {
+            "name": "dot",
+            "type": 1
+        },
+        {
+            "name": "occupation",
+            "type": 1
+        },
+        {
+            "name": "mixture",
+            "type": 1
+        },
+        {
+            "name": "scrollwork",
+            "type": 1
+        },
+        {
+            "name": "nag",
+            "type": 1
+        },
+        {
+            "name": "eau",
+            "type": 1
+        },
+        {
+            "name": "grief",
+            "type": 1
+        },
+        {
+            "name": "rather",
+            "type": 1
+        },
+        {
+            "name": "quantitative",
+            "type": 1
+        },
+        {
+            "name": "ground",
+            "type": 1
+        },
+        {
+            "name": "character",
+            "type": 1
+        },
+        {
+            "name": "chandler",
+            "type": 1
+        },
+        {
+            "name": "parachute",
+            "type": 1
+        },
+        {
+            "name": "km",
+            "type": 1
+        },
+        {
+            "name": "selfhood",
+            "type": 1
+        },
+        {
+            "name": "bookkeeping",
+            "type": 1
+        },
+        {
+            "name": "anticholinergic",
+            "type": 1
+        },
+        {
+            "name": "confusion",
+            "type": 1
+        },
+        {
+            "name": "conveyance",
+            "type": 1
+        },
+        {
+            "name": "country",
+            "type": 1
+        },
+        {
+            "name": "involute",
+            "type": 1
+        },
+        {
+            "name": "sell",
+            "type": 1
+        },
+        {
+            "name": "diploid",
+            "type": 1
+        },
+        {
+            "name": "triad",
+            "type": 1
+        },
+        {
+            "name": "strongly",
+            "type": 1
+        },
+        {
+            "name": "wheelchair",
+            "type": 1
+        },
+        {
+            "name": "spontaneous",
+            "type": 1
+        },
+        {
+            "name": "terracing",
+            "type": 1
+        },
+        {
+            "name": "aeroplane",
+            "type": 1
+        },
+        {
+            "name": "manoeuvre",
+            "type": 1
+        },
+        {
+            "name": "raise",
+            "type": 1
+        },
+        {
+            "name": "mortar",
+            "type": 1
+        },
+        {
+            "name": "canal",
+            "type": 1
+        },
+        {
+            "name": "odometer",
+            "type": 1
+        },
+        {
+            "name": "adenosine",
+            "type": 1
+        },
+        {
+            "name": "optometry",
+            "type": 1
+        },
+        {
+            "name": "involved",
+            "type": 1
+        },
+        {
+            "name": "burnt",
+            "type": 2
+        },
+        {
+            "name": "participle",
+            "type": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "mica",
+            "target": "chloritoid"
+        },
+        {
+            "source": "trade",
+            "target": "tradeswoman"
+        },
+        {
+            "source": "trade",
+            "target": "slack"
+        },
+        {
+            "source": "whip",
+            "target": "whipped"
+        },
+        {
+            "source": "hydrolysis",
+            "target": "nucleotidase"
+        },
+        {
+            "source": "mixture",
+            "target": "spritzer"
+        },
+        {
+            "source": "collective",
+            "target": "dene"
+        },
+        {
+            "source": "exercise",
+            "target": "manoeuvre"
+        },
+        {
+            "source": "spontaneous",
+            "target": "afterburning"
+        },
+        {
+            "source": "still",
+            "target": "sarum"
+        },
+        {
+            "source": "still",
+            "target": "layering"
+        },
+        {
+            "source": "diploid",
+            "target": "zygote"
+        },
+        {
+            "source": "country",
+            "target": "settler"
+        },
+        {
+            "source": "country",
+            "target": "internation"
+        },
+        {
+            "source": "country",
+            "target": "wali"
+        },
+        {
+            "source": "country",
+            "target": "vienna"
+        },
+        {
+            "source": "cask",
+            "target": "kilderkin"
+        },
+        {
+            "source": "character",
+            "target": "dailiness"
+        },
+        {
+            "source": "character",
+            "target": "medievalize"
+        },
+        {
+            "source": "character",
+            "target": "ionism"
+        },
+        {
+            "source": "character",
+            "target": "characterization"
+        },
+        {
+            "source": "character",
+            "target": "genius"
+        },
+        {
+            "source": "carbon",
+            "target": "tertiary"
+        },
+        {
+            "source": "someone",
+            "target": "conveyance"
+        },
+        {
+            "source": "someone",
+            "target": "knock"
+        },
+        {
+            "source": "someone",
+            "target": "mimicry"
+        },
+        {
+            "source": "someone",
+            "target": "muzzler"
+        },
+        {
+            "source": "someone",
+            "target": "reception"
+        },
+        {
+            "source": "someone",
+            "target": "scurrilous"
+        },
+        {
+            "source": "someone",
+            "target": "carry"
+        },
+        {
+            "source": "someone",
+            "target": "nag"
+        },
+        {
+            "source": "someone",
+            "target": "distrust"
+        },
+        {
+            "source": "someone",
+            "target": "raise"
+        },
+        {
+            "source": "someone",
+            "target": "disillusioned"
+        },
+        {
+            "source": "someone",
+            "target": "ruse"
+        },
+        {
+            "source": "someone",
+            "target": "sell"
+        },
+        {
+            "source": "someone",
+            "target": "characterization"
+        },
+        {
+            "source": "someone",
+            "target": "persecute"
+        },
+        {
+            "source": "someone",
+            "target": "juke"
+        },
+        {
+            "source": "someone",
+            "target": "quizzer"
+        },
+        {
+            "source": "someone",
+            "target": "assure"
+        },
+        {
+            "source": "strongly",
+            "target": "euchromatic"
+        },
+        {
+            "source": "unable",
+            "target": "gammy"
+        },
+        {
+            "source": "unable",
+            "target": "wheelchair"
+        },
+        {
+            "source": "these",
+            "target": "rationalize"
+        },
+        {
+            "source": "these",
+            "target": "pell"
+        },
+        {
+            "source": "these",
+            "target": "ferrimagnetic"
+        },
+        {
+            "source": "these",
+            "target": "suburbicarian"
+        },
+        {
+            "source": "learning",
+            "target": "studium"
+        },
+        {
+            "source": "learning",
+            "target": "empirism"
+        },
+        {
+            "source": "learning",
+            "target": "philomath"
+        },
+        {
+            "source": "learning",
+            "target": "bookcraft"
+        },
+        {
+            "source": "shrub",
+            "target": "paliurus"
+        },
+        {
+            "source": "shrub",
+            "target": "dieback"
+        },
+        {
+            "source": "shrub",
+            "target": "karo"
+        },
+        {
+            "source": "intense",
+            "target": "flashover"
+        },
+        {
+            "source": "intense",
+            "target": "grief"
+        },
+        {
+            "source": "unclear",
+            "target": "confusion"
+        },
+        {
+            "source": "as",
+            "target": "mica"
+        },
+        {
+            "source": "as",
+            "target": "animalculism"
+        },
+        {
+            "source": "as",
+            "target": "tenotomy"
+        },
+        {
+            "source": "as",
+            "target": "conservatory"
+        },
+        {
+            "source": "as",
+            "target": "sarum"
+        },
+        {
+            "source": "as",
+            "target": "matildite"
+        },
+        {
+            "source": "as",
+            "target": "paralysis"
+        },
+        {
+            "source": "as",
+            "target": "masculinism"
+        },
+        {
+            "source": "as",
+            "target": "junky"
+        },
+        {
+            "source": "as",
+            "target": "internation"
+        },
+        {
+            "source": "as",
+            "target": "phonematic"
+        },
+        {
+            "source": "as",
+            "target": "whip"
+        },
+        {
+            "source": "as",
+            "target": "institutionalized"
+        },
+        {
+            "source": "as",
+            "target": "animato"
+        },
+        {
+            "source": "as",
+            "target": "distinguishable"
+        },
+        {
+            "source": "as",
+            "target": "collective"
+        },
+        {
+            "source": "as",
+            "target": "spontaneous"
+        },
+        {
+            "source": "as",
+            "target": "diseconomy"
+        },
+        {
+            "source": "as",
+            "target": "stet"
+        },
+        {
+            "source": "as",
+            "target": "praisably"
+        },
+        {
+            "source": "as",
+            "target": "protopectin"
+        },
+        {
+            "source": "as",
+            "target": "nana"
+        },
+        {
+            "source": "as",
+            "target": "parachute"
+        },
+        {
+            "source": "as",
+            "target": "acrolein"
+        },
+        {
+            "source": "as",
+            "target": "waterfowl"
+        },
+        {
+            "source": "as",
+            "target": "unresembling"
+        },
+        {
+            "source": "as",
+            "target": "tinder"
+        },
+        {
+            "source": "as",
+            "target": "environmentalism"
+        },
+        {
+            "source": "as",
+            "target": "metabisulphite"
+        },
+        {
+            "source": "as",
+            "target": "rockwork"
+        },
+        {
+            "source": "as",
+            "target": "waving"
+        },
+        {
+            "source": "as",
+            "target": "adenosine"
+        },
+        {
+            "source": "as",
+            "target": "carry"
+        },
+        {
+            "source": "as",
+            "target": "marbling"
+        },
+        {
+            "source": "as",
+            "target": "zymotic"
+        },
+        {
+            "source": "as",
+            "target": "bibliography"
+        },
+        {
+            "source": "as",
+            "target": "concertist"
+        },
+        {
+            "source": "as",
+            "target": "unrecognized"
+        },
+        {
+            "source": "as",
+            "target": "ghent"
+        },
+        {
+            "source": "as",
+            "target": "pensionary"
+        },
+        {
+            "source": "as",
+            "target": "cully"
+        },
+        {
+            "source": "as",
+            "target": "apart"
+        },
+        {
+            "source": "as",
+            "target": "unrich"
+        },
+        {
+            "source": "as",
+            "target": "serum"
+        },
+        {
+            "source": "as",
+            "target": "flowstone"
+        },
+        {
+            "source": "as",
+            "target": "canal"
+        },
+        {
+            "source": "as",
+            "target": "modius"
+        },
+        {
+            "source": "as",
+            "target": "montanite"
+        },
+        {
+            "source": "as",
+            "target": "stipulated"
+        },
+        {
+            "source": "as",
+            "target": "participle"
+        },
+        {
+            "source": "as",
+            "target": "ottrelite"
+        },
+        {
+            "source": "as",
+            "target": "anticholinergic"
+        },
+        {
+            "source": "as",
+            "target": "orientite"
+        },
+        {
+            "source": "as",
+            "target": "scrollwork"
+        },
+        {
+            "source": "as",
+            "target": "adjectively"
+        },
+        {
+            "source": "as",
+            "target": "nitromethane"
+        },
+        {
+            "source": "as",
+            "target": "adelantado"
+        },
+        {
+            "source": "as",
+            "target": "vehicle"
+        },
+        {
+            "source": "as",
+            "target": "chandler"
+        },
+        {
+            "source": "as",
+            "target": "balti"
+        },
+        {
+            "source": "as",
+            "target": "albumenize"
+        },
+        {
+            "source": "as",
+            "target": "disputable"
+        },
+        {
+            "source": "as",
+            "target": "postuterine"
+        },
+        {
+            "source": "as",
+            "target": "triploblastic"
+        },
+        {
+            "source": "as",
+            "target": "stinger"
+        },
+        {
+            "source": "as",
+            "target": "faggot"
+        },
+        {
+            "source": "as",
+            "target": "unbelievable"
+        },
+        {
+            "source": "as",
+            "target": "percentaged"
+        },
+        {
+            "source": "as",
+            "target": "suburbicarian"
+        },
+        {
+            "source": "as",
+            "target": "objet"
+        },
+        {
+            "source": "as",
+            "target": "recreationist"
+        },
+        {
+            "source": "as",
+            "target": "dot"
+        },
+        {
+            "source": "as",
+            "target": "algol"
+        },
+        {
+            "source": "as",
+            "target": "rutin"
+        },
+        {
+            "source": "as",
+            "target": "paragram"
+        },
+        {
+            "source": "as",
+            "target": "shillelagh"
+        },
+        {
+            "source": "as",
+            "target": "quadratically"
+        },
+        {
+            "source": "as",
+            "target": "pise"
+        },
+        {
+            "source": "as",
+            "target": "squashed"
+        },
+        {
+            "source": "as",
+            "target": "protozoan"
+        },
+        {
+            "source": "as",
+            "target": "pomander"
+        },
+        {
+            "source": "as",
+            "target": "ground"
+        },
+        {
+            "source": "as",
+            "target": "nor"
+        },
+        {
+            "source": "as",
+            "target": "wheelchair"
+        },
+        {
+            "source": "as",
+            "target": "prohibitively"
+        },
+        {
+            "source": "as",
+            "target": "genius"
+        },
+        {
+            "source": "as",
+            "target": "berried"
+        },
+        {
+            "source": "as",
+            "target": "plethysmograph"
+        },
+        {
+            "source": "as",
+            "target": "mancando"
+        },
+        {
+            "source": "as",
+            "target": "subvene"
+        },
+        {
+            "source": "as",
+            "target": "truncate"
+        },
+        {
+            "source": "canal",
+            "target": "headwork"
+        },
+        {
+            "source": "canal",
+            "target": "vaporetto"
+        },
+        {
+            "source": "burnt",
+            "target": "participle"
+        },
+        {
+            "source": "participle",
+            "target": "burnt"
+        },
+        {
+            "source": "participle",
+            "target": "untying"
+        },
+        {
+            "source": "regard",
+            "target": "country"
+        },
+        {
+            "source": "regard",
+            "target": "inconvenience"
+        },
+        {
+            "source": "regard",
+            "target": "unconscienced"
+        },
+        {
+            "source": "involved",
+            "target": "algesic"
+        },
+        {
+            "source": "involved",
+            "target": "triad"
+        },
+        {
+            "source": "involved",
+            "target": "complicity"
+        },
+        {
+            "source": "involved",
+            "target": "progressionary"
+        },
+        {
+            "source": "involved",
+            "target": "involute"
+        },
+        {
+            "source": "involved",
+            "target": "expectorative"
+        },
+        {
+            "source": "vehicle",
+            "target": "monocoque"
+        },
+        {
+            "source": "vehicle",
+            "target": "aeroplane"
+        },
+        {
+            "source": "vehicle",
+            "target": "gr"
+        },
+        {
+            "source": "vehicle",
+            "target": "eau"
+        },
+        {
+            "source": "vehicle",
+            "target": "odometer"
+        },
+        {
+            "source": "vehicle",
+            "target": "ungeared"
+        },
+        {
+            "source": "tungsten",
+            "target": "romanium"
+        },
+        {
+            "source": "buckwheat",
+            "target": "rutin"
+        },
+        {
+            "source": "rather",
+            "target": "quantitative"
+        },
+        {
+            "source": "rather",
+            "target": "pragmatically"
+        },
+        {
+            "source": "resort",
+            "target": "grockle"
+        },
+        {
+            "source": "occupation",
+            "target": "bookkeeping"
+        },
+        {
+            "source": "occupation",
+            "target": "optometry"
+        },
+        {
+            "source": "tectum",
+            "target": "subtectal"
+        },
+        {
+            "source": "individual",
+            "target": "rebus"
+        },
+        {
+            "source": "individual",
+            "target": "character"
+        },
+        {
+            "source": "individual",
+            "target": "vehicle"
+        },
+        {
+            "source": "individual",
+            "target": "selfhood"
+        },
+        {
+            "source": "ground",
+            "target": "statant"
+        },
+        {
+            "source": "ground",
+            "target": "souslik"
+        },
+        {
+            "source": "ground",
+            "target": "shrub"
+        },
+        {
+            "source": "ground",
+            "target": "mortar"
+        },
+        {
+            "source": "ground",
+            "target": "terracing"
+        },
+        {
+            "source": "ground",
+            "target": "ollie"
+        },
+        {
+            "source": "nor",
+            "target": "slack"
+        },
+        {
+            "source": "mystagogical",
+            "target": "mystagogic"
+        },
+        {
+            "source": "km",
+            "target": "amazon"
+        },
+        {
+            "source": "measured",
+            "target": "quantitative"
+        }
+    ]
+}
 
+graph = theOBJ
 
-
+// d3.json("http://localhost:8000/public/graph.json", function(error, graph) {
+  // if (error) throw error;
 
   var link = svg.append("g")
       .attr("class", "links")
@@ -117,8 +1714,8 @@ $.getJSON('/public/graph.JSON', function(obj){
         // .append("text").text(function(d) { return d.name });
 
   }
-});
-		  
+// });
+
 function dragstarted(d) {
   if (!d3.event.active) simulation.alphaTarget(0.3).restart();
   d.fx = d.x;
@@ -135,6 +1732,7 @@ function dragended(d) {
   d.fx = null;
   d.fy = null;
 }
+
 
 
 </script>
