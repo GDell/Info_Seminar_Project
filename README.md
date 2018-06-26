@@ -5,15 +5,18 @@ graph, where a given word U is connected to another word V if the word U is
 used in the definition of the word V.
 
 <img src="./images/latentStructureVisualization.png" width="380px" height="280px"/>
-### Figure 1. Latent Structure Visualization 
+
+### Figure 1 - Latent Structure Visualization
+
 <img src="./images/structureExample.png" width="380px" height="280px" style="float: right;" />
-### Figure 2. Dictionary Subset Example
+
+### Figure 2 - Dictionary Subset Example
 <!-- ![alt text](./images/latentStructureVisualization.png) -->
 <!-- ![alt text](./images/structureExample.png) -->
 (Figures obtained from Vincent-Lamarre and colleague's 2016 paper - "The Latent Structure of Dictionaries")
 
-<img src="./images/entropyEquation.png" />
-### Figure 3. Shannon's Entropy Equation
+<img src="./images/entropyEquation.PNG" />
+### Figure 3 - Shannon's Entropy Equation
 
 ![alt text](./images/IT_dicitonary_visualization.PNG)
 A visualization of a small subset of the core and kernel of the English language dictionary.
