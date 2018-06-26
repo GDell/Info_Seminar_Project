@@ -16,7 +16,12 @@ used in the definition of the word V.
 (Figures obtained from Vincent-Lamarre and colleague's 2016 paper - "The Latent Structure of Dictionaries")
 
 <img src="./images/entropyEquation.PNG" />
+
 ### Figure 3 - Shannon's Entropy Equation
+
+<img src="./images/tableResults.PNG" />
+
+### Table 1 - Result
 
 ![alt text](./images/IT_dicitonary_visualization.PNG)
 A visualization of a small subset of the core and kernel of the English language dictionary.
