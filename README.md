@@ -5,7 +5,7 @@ graph, where a given word U is connected to another word V if the word U is
 used in the definition of the word V.
 
 <img src="./images/latentStructureVisualization.png" width="380px" height="280px"/>
-<img src="./images/structureExample.png" width="380px" height="280px"/>
+<img src="./images/structureExample.png" width="380px" height="280px" style="float: right;" />
 <!-- ![alt text](./images/latentStructureVisualization.png) -->
 <!-- ![alt text](./images/structureExample.png) -->
 (Figures obtained from Vincent-Lamarre and colleague's 2016 paper - "The Latent Structure of Dictionaries")
