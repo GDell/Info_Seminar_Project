@@ -1,20 +1,16 @@
 # An Information Theoretic Analysis of the English Language Dictionary
 Researcher Vincent-Lamarre and colleagues demonstrate that representing dictionaries as directed graphs reveals a latent structure in human languages, where a given word U is connected to another word V if the word U is
 used in the definition of the word V.
-
+<div>
 <img src="./images/latentStructureVisualization.png" width="380px" height="280px"/>
-
+<img src="./images/structureExample.png" width="380px" height="280px" style="float: right;" />
+</div>
 
 ### Figure 1 - Latent Structure Visualization
-
-
-<img src="./images/structureExample.png" width="380px" height="280px" style="float: right;" />
 
 These researchers demonstrated that by visualizing a dictionary as a
 directed graph in this way, you reveal a layered structure.
 
-
-### Figure 2 - Dictionary Subset Example
 
 
 (Figures obtained from Vincent-Lamarre and colleague's 2016 paper - "The Latent Structure of Dictionaries")
