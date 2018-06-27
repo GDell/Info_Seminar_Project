@@ -1,8 +1,8 @@
-# An Information Theoretic Analysis of the English Language Dictionary
+# An Information Theoretic Analysis of an English Language Dictionary
 Researcher Vincent-Lamarre and colleagues demonstrate that representing dictionaries as directed graphs reveals a latent structure in human languages, where a given word U is connected to another word V if the word U is
 used in the definition of the word V.
 <div>
-<img src="./images/latentStructureVisualization.png" width="380px" height="280px"/>
+<img src="./images/latentStructureVisualization.png" width="380px" height="280px" style="margin-left: 8%;"/>
 <img src="./images/structureExample.png" width="380px" height="280px" style="float: right;" />
 </div>
 
